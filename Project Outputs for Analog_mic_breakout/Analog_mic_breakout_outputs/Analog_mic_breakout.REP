@@ -1,0 +1,217 @@
+*************************************************************
+FileName = Analog_mic_breakout.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Component Center
+      File : Analog_mic_breakout.GM16
+
+    Adding Layer      : Top Component Center
+
+
+Used DCodes :
+    D33
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : Analog_mic_breakout.GM15
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : Analog_mic_breakout.GM13
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : Analog_mic_breakout.GM5
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : Analog_mic_breakout.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Analog_mic_breakout.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Analog_mic_breakout.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D30
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Analog_mic_breakout.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : Analog_mic_breakout.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Analog_mic_breakout.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : Analog_mic_breakout.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : Analog_mic_breakout.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Analog_mic_breakout.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : Analog_mic_breakout.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D31
+    D32
+*************************************************************
+

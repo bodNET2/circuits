@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [Analog_mic_breakout.PrjPcb]
+   Generated File[Pick Place for Analog_mic_breakout_rev.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 1:05:45 AM On 2023-02-07

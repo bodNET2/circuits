@@ -1,0 +1,6 @@
+Change Physical Footprint: Designator=C1 Old Footprint=FP-CL05A106MP5NUNC-MFG New Footprint=FP-CL05A106MP5NUNC-MFG
+Change Physical Footprint: Designator=C2 Old Footprint=FP-CL05A106MP5NUNC-MFG New Footprint=FP-CL05A106MP5NUNC-MFG
+Change Physical Footprint: Designator=J1 Old Footprint=PAD New Footprint=Pad
+Change Physical Footprint: Designator=J2 Old Footprint=PAD New Footprint=Pad
+Change Physical Footprint: Designator=MK1 Old Footprint=665-AMM-3738-B-R New Footprint=665-AMM-3738-B-R
+Change Physical Footprint: Designator=R1 Old Footprint=0603_SMD_Resistor New Footprint=0603_SMD_Resistor

@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: Analog_mic_panel.GBR   2022-02-07  8:24:53 AM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.gbr                Top Layer                               
+.gbr                Bottom Layer                            
+.gbr                Bottom Pad Master                       
+.gbr                Top Pad Master                          
+.gbr                Bottom Overlay                          
+.gbr                Bottom Solder                           
+.gbr                Top Overlay                             
+.gbr                Top Paste                               
+.gbr                Top Solder                              
+.gbr                Mechanical 13                           
+.gbr                Mechanical 5                            
+.gbr                Mechanical 16                           
+.gbr                Mechanical 1                            
+.gbr                Mechanical 15                           
+.gbr                Route Tool Path                         
+.gbr                Profile                                 
+.gbr                Non-plated through-hole drill file      
+.gbr                Drill Drawing                           
+.gbr                Drill Guide                             
+------------------------------------------------------------------------------------------

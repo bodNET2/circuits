@@ -1,0 +1,26 @@
+Change Component Comment : Designator=Designator7 Old Comment=Comment New Comment=AMM-3738-B-R
+Change Component Designator: OldDesignator=Designator7 NewDesignator=MK1
+Change component parameters: Designator = "Designator7" ("MK1"); Footprint = "665-AMM-3738-B-R"; UniqueID = "\QWNGRMAF" ("\QWNGRMAF")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "PUI Audio"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "665-AMM-3738-B-R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=GND Pin=MK1-2
+Added Pin To Net: NetName=GND Pin=MK1-3
+Added Pin To Net: NetName=GND Pin=MK1-5
+Added Pin To Net: NetName=GND Pin=MK1-6
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=MK1-4
+Added Pin To Net: NetName=NetC1_1 Pin=R1-2
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=J1-1
+Added Pin To Net: NetName=NetC2_1 Pin=R1-1
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=MK1-1
+Added Net: Name=NetC2_2
+Added Class: Name=Analog_mic_breakout
+Added Room: Name=Analog_mic_breakout

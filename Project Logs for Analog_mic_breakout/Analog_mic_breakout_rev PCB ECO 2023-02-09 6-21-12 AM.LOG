@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=R1 Old Footprint=0603_SMD_Resistor New Footprint=TNPW04023K97BEED
+Change Component Comment : Designator=R1 Old Comment=ERA-1AEB102C New Comment=TNPW04023K97BEED
+Change component parameters: Designator = "R1" ("R1"); Footprint = "0603_SMD_Resistor"; UniqueID = "\HFOPVAKT" ("\HFOPVAKT")
+Added Member To Class: ClassName=Analog_mic_breakout Member=Component J2 Pad
+Added Room: Name=Analog_mic_breakout

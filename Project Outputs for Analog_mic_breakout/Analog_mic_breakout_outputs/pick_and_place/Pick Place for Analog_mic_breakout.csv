@@ -1,0 +1,19 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\Projects\Analog_mic_breakout\Project Outputs for Analog_mic_breakout\Pick Place for Analog_mic_breakout.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       09-02-22
+Time:       02:28
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"R1","ERA-1AEB102C","TopLayer","0603_SMD_Resistor","4772.638","2808.071","0","0603 SMD 1K Res 0.1%"
+"C2","CL05A106MP5NUNC","TopLayer","FP-CL05A106MP5NUNC-MFG","4706.693","2910.433","90","CAP CER 10UF 10V X5R 0402"
+"C1","CL05A106MP5NUNC","TopLayer","FP-CL05A106MP5NUNC-MFG","4775.099","2920.276","180","CAP CER 10UF 10V X5R 0402"
+"MK1","AMM-3738-B-R","TopLayer","665-AMM-3738-B-R","4748.189","3033.937","0",""
+"J2","Pad","TopLayer","Pad","4772.638","2862.205","270",""
+"J1","Pad","TopLayer","Pad","4703.740","2839.567","0",""

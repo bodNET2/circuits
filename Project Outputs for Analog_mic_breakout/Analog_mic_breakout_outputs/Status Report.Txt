@@ -1,0 +1,26 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Analog_mic_breakout.PrjPcb]
+   Generated File[Analog_mic_breakout.GTO]
+   Generated File[Analog_mic_breakout.GTP]
+   Generated File[Analog_mic_breakout.GTS]
+   Generated File[Analog_mic_breakout.GTL]
+   Generated File[Analog_mic_breakout.GBL]
+   Generated File[Analog_mic_breakout.GBS]
+   Generated File[Analog_mic_breakout.GBO]
+   Generated File[Analog_mic_breakout.GM1]
+   Generated File[Analog_mic_breakout.GM5]
+   Generated File[Analog_mic_breakout.GM13]
+   Generated File[Analog_mic_breakout.GM15]
+   Generated File[Analog_mic_breakout.GM16]
+   Generated File[Analog_mic_breakout.GPT]
+   Generated File[Analog_mic_breakout.GPB]
+   Generated File[Analog_mic_breakout.RUL]
+   Generated File[Analog_mic_breakout.EXTREP]
+   Generated File[Analog_mic_breakout.REP]
+
+
+Files Generated   : 17
+Documents Printed : 0
+
+Finished Output Generation At 4:00:45 AM On 2022-02-09

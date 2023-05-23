@@ -1,0 +1,6 @@
+Comment,Description,Designator,Footprint,LibRef,Quantity
+
+"CL05A106MP5NUNC","CAP CER 10UF 10V X5R 0402","C1, C2","FP-CL05A106MP5NUNC-MFG","CMP-13271-000002-1","2"
+"Pad","","J1, J2","Pad","Pad","2"
+"AMM-3738-B-R","","MK1","665-AMM-3738-B-R","AMM-3738-B-R","1"
+"ERA-1AEB102C","0603 SMD 1K Res 0.1%","R1","0603_SMD_Resistor","ERA-1AEB102C","1"

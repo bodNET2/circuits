@@ -1,0 +1,13 @@
+Change Component Comment : Designator=Designator6 Old Comment=Comment New Comment=AMM-3738-B-R
+Change Component Designator: OldDesignator=Designator6 NewDesignator=MK1
+Change component parameters: Designator = "Designator6" ("MK1"); Footprint = "665-AMM-3738-B-R"; UniqueID = "\QWNGRMAF" ("\QWNGRMAF")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "PUI Audio"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "665-AMM-3738-B-R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC2_2 Pin=MK1-1
+Added Pin To Net: NetName=GND Pin=MK1-2
+Added Pin To Net: NetName=GND Pin=MK1-3
+Added Pin To Net: NetName=NetC1_1 Pin=MK1-4
+Added Pin To Net: NetName=GND Pin=MK1-5
+Added Pin To Net: NetName=GND Pin=MK1-6
+Added Member To Class: ClassName=Analog_mic_breakout Member=Component MK1 AMM-3738-B-R
