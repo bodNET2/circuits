@@ -1,0 +1,558 @@
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 11 -0.1820866 0.1200787 90 N R4 1k ;0=1,1=0.0102
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_04.pdf'
+PRP ComponentLink2Description 'Digi-Key Listing'
+PRP ComponentLink2URL 'https://www.digikey.com/product-detail/en/yageo/RC0201JR-071KL/311-1KNTR-ND/1948922'
+PRP Device_Package '0201 (0603 Metric)'
+PRP Manufacturer 'Yageo'
+PRP PartId '19463'
+PRP Part_Number 'RC0201JR-071KL'
+PRP PowerRating '0.05W, 1/20W'
+PRP Price '0.0042'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '311-1KNTR-ND'
+PRP TemperatureCoefficient '200ppm/C'
+PRP TemperatureRange '-55C ~ 125C'
+PRP Tolerance '5%'
+PRP Value '1k'
+TOP 0 -0.1820866 0.132874 180 N 24 2 R4-1
+TOP 1 -0.1820866 0.1072834 180 N 4 1 R4-2
+#
+# CMP 1
+CMP 3 -0.2007874 0.0452514 206 N C9 10uF ;0=1,1=0.0205
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_general_en.pdf'
+PRP ComponentLink2Description 'Digi-Key Listing'
+PRP ComponentLink2URL 'https://www.digikey.com/product-detail/en/tdk-corporation/C1005X5R0J106M050BC/445-8920-2-ND/3507809'
+PRP Device_Package '0402 (1005 Metric)'
+PRP Manufacturer 'TDK Corporation'
+PRP PartId '12380'
+PRP Part_Number 'C1005X5R0J106M050BC'
+PRP Price '0.119'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '445-8920-2-ND'
+PRP TemperatureCoefficient 'X5R'
+PRP TemperatureRange '-55C ~ 85C'
+PRP Tolerance '20%'
+PRP Value '10uF'
+PRP Voltage '6.3V'
+TOP 0 -0.216357 0.0376576 64 N 30 1 C9-1
+TOP 1 -0.1852177 0.0528453 64 N 3 0 C9-2
+#
+# CMP 2
+CMP 3 -0.1181102 0.0403543 0 N C4 10uF ;0=1,1=0.0205
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_general_en.pdf'
+PRP ComponentLink2Description 'Digi-Key Listing'
+PRP ComponentLink2URL 'https://www.digikey.com/product-detail/en/tdk-corporation/C1005X5R0J106M050BC/445-8920-2-ND/3507809'
+PRP Device_Package '0402 (1005 Metric)'
+PRP Manufacturer 'TDK Corporation'
+PRP PartId '12380'
+PRP Part_Number 'C1005X5R0J106M050BC'
+PRP Price '0.119'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '445-8920-2-ND'
+PRP TemperatureCoefficient 'X5R'
+PRP TemperatureRange '-55C ~ 85C'
+PRP Tolerance '20%'
+PRP Value '10uF'
+PRP Voltage '6.3V'
+TOP 0 -0.1007874 0.0403543 270 N 26 24 C4-1
+TOP 1 -0.1354331 0.0403543 270 N 4 0 C4-2
+#
+# CMP 3
+CMP 13 -0.1141732 0.1338583 0 N MK4 VPU ;0=1,1=0.0000
+TOP 0 -0.1491772 0.1772638 180 N 26 25 MK4-1
+TOP 1 -0.1141772 0.1772638 180 N 26 26 MK4-2
+TOP 2 -0.0791772 0.1772638 180 N 0 10 MK4-3
+TOP 3 -0.0791693 0.0904528 180 N 31 1 MK4-4
+TOP 4 -0.1141693 0.0904528 180 N 26 27 MK4-5
+TOP 5 -0.1491693 0.0904528 180 N 4 2 MK4-6
+#
+# CMP 4
+CMP 2 -0.1948819 0.0063924 206 N C8 1uF ;0=1,1=0.0130
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'http://datasheets.avx.com/cx5r.pdf'
+PRP ComponentLink2Description 'Digi-Key Listing'
+PRP ComponentLink2URL 'https://www.digikey.com/product-detail/en/avx-corporation/02016D105MAT2A/478-7862-2-ND/3079664'
+PRP Device_Package '0201 (0603 Metric)'
+PRP Manufacturer 'AVX Corporation'
+PRP PartId '20442'
+PRP Part_Number '02016D105MAT2A'
+PRP Price '0.063'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '478-7862-2-ND'
+PRP TemperatureCoefficient 'X5R'
+PRP TemperatureRange '-55C ~ 85C'
+PRP Tolerance '20%'
+PRP Value '1uF'
+PRP Voltage '6.3V'
+TOP 0 -0.2058515 0.0010423 64 N 8 0 C8-1
+TOP 1 -0.1839123 0.0117425 64 N 31 0 C8-2
+#
+# CMP 5
+CMP 2 -0.2322835 0.0826772 206 N C6 1uF ;0=1,1=0.0130
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'http://datasheets.avx.com/cx5r.pdf'
+PRP ComponentLink2Description 'Digi-Key Listing'
+PRP ComponentLink2URL 'https://www.digikey.com/product-detail/en/avx-corporation/02016D105MAT2A/478-7862-2-ND/3079664'
+PRP Device_Package '0201 (0603 Metric)'
+PRP Manufacturer 'AVX Corporation'
+PRP PartId '20442'
+PRP Part_Number '02016D105MAT2A'
+PRP Price '0.063'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '478-7862-2-ND'
+PRP TemperatureCoefficient 'X5R'
+PRP TemperatureRange '-55C ~ 85C'
+PRP Tolerance '20%'
+PRP Value '1uF'
+PRP Voltage '6.3V'
+TOP 0 -0.243253 0.077327 64 N 9 0 C6-1
+TOP 1 -0.2213141 0.0880274 64 N 29 0 C6-2
+#
+# CMP 6
+CMP 3 -0.2195176 0.1496063 270 N C28 10uF ;0=1,1=0.0205
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_general_en.pdf'
+PRP ComponentLink2Description 'Digi-Key Listing'
+PRP ComponentLink2URL 'https://www.digikey.com/product-detail/en/tdk-corporation/C1005X5R0J106M050BC/445-8920-2-ND/3507809'
+PRP Device_Package '0402 (1005 Metric)'
+PRP Manufacturer 'TDK Corporation'
+PRP PartId '12380'
+PRP Part_Number 'C1005X5R0J106M050BC'
+PRP Price '0.119'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '445-8920-2-ND'
+PRP TemperatureCoefficient 'X5R'
+PRP TemperatureRange '-55C ~ 85C'
+PRP Tolerance '20%'
+PRP Value '10uF'
+PRP Voltage '6.3V'
+TOP 0 -0.2195175 0.1322835 0 N 12 1 C28-1
+TOP 1 -0.2195176 0.1669292 0 N 26 12 C28-2
+#
+# CMP 7
+CMP 10 -0.3749654 -0.0188447 116 N U3 ADAU1372 ;0=1,1=0.0315
+TOP 0 -0.5063592 0.0484799 154 N 17 0 U3-1
+TOP 1 -0.4886662 0.0571092 154 N 37 0 U3-2
+TOP 2 -0.4709734 0.0657388 154 N 16 0 U3-3
+TOP 3 -0.4532806 0.0743681 154 N 21 0 U3-4
+TOP 4 -0.4355878 0.0829974 154 N 26 18 U3-5
+TOP 5 -0.4178949 0.0916266 154 N 0 2 U3-6
+TOP 6 -0.4002023 0.1002562 154 N 0 3 U3-7
+TOP 7 -0.3825096 0.1088854 154 N 32 0 U3-8
+TOP 8 -0.3648167 0.1175147 154 N 10 0 U3-9
+TOP 9 -0.347124 0.1261441 154 N 25 3 U3-10
+TOP 10 -0.3076408 0.1125491 64 N 26 19 U3-11
+TOP 11 -0.2990115 0.0948563 64 N 12 2 U3-12
+TOP 12 -0.2903819 0.0771636 64 N 33 0 U3-13
+TOP 13 -0.2817527 0.0594705 64 N 9 1 U3-14
+TOP 14 -0.2731233 0.0417778 64 N 34 0 U3-15
+TOP 15 -0.2644941 0.0240848 64 N 30 0 U3-16
+TOP 16 -0.2558645 0.0063924 64 N 35 0 U3-17
+TOP 17 -0.2472353 -0.0113004 64 N 8 1 U3-18
+TOP 18 -0.238606 -0.0289933 64 N 25 4 U3-19
+TOP 19 -0.2299766 -0.0466861 64 N 26 20 U3-20
+TOP 20 -0.2435716 -0.0861692 154 N 36 0 U3-21
+TOP 21 -0.2612645 -0.0947988 154 N 11 0 U3-22
+TOP 22 -0.2789572 -0.1034281 154 N 26 21 U3-23
+TOP 23 -0.29665 -0.1120573 154 N 25 5 U3-24
+TOP 24 -0.314343 -0.1206867 154 N 0 4 U3-25
+TOP 25 -0.3320358 -0.1293158 154 N 0 5 U3-26
+TOP 26 -0.3497283 -0.1379454 154 N 13 0 U3-27
+TOP 27 -0.3674212 -0.1465746 154 N 14 0 U3-28
+TOP 28 -0.3851141 -0.155204 154 N 14 1 U3-29
+TOP 29 -0.4028067 -0.1638335 154 N 26 22 U3-30
+TOP 30 -0.44229 -0.1502384 64 N 27 0 U3-31
+TOP 31 -0.4509195 -0.1325456 64 N 22 0 U3-32
+TOP 32 -0.4595488 -0.1148528 64 N 18 0 U3-33
+TOP 33 -0.4681778 -0.09716 64 N 19 0 U3-34
+TOP 34 -0.4768073 -0.0794671 64 N 0 6 U3-35
+TOP 35 -0.4854366 -0.0617742 64 N 0 7 U3-36
+TOP 36 -0.4940662 -0.0440818 64 N 0 8 U3-37
+TOP 37 -0.5026954 -0.0263889 64 N 0 9 U3-38
+TOP 38 -0.5113247 -0.008696 64 N 6 0 U3-39
+TOP 39 -0.5199542 0.0089967 64 N 38 9 U3-40
+TOP 40 -0.3749654 -0.0188446 64 N 26 23 U3-41
+#
+# CMP 8
+CMP 3 -0.5961635 -0.041314 296 N C19 10uF ;0=1,1=0.0205
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_general_en.pdf'
+PRP ComponentLink2Description 'Digi-Key Listing'
+PRP ComponentLink2URL 'https://www.digikey.com/product-detail/en/tdk-corporation/C1005X5R0J106M050BC/445-8920-2-ND/3507809'
+PRP Device_Package '0402 (1005 Metric)'
+PRP Manufacturer 'TDK Corporation'
+PRP PartId '12380'
+PRP Part_Number 'C1005X5R0J106M050BC'
+PRP Price '0.119'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '445-8920-2-ND'
+PRP TemperatureCoefficient 'X5R'
+PRP TemperatureRange '-55C ~ 85C'
+PRP Tolerance '20%'
+PRP Value '10uF'
+PRP Voltage '6.3V'
+TOP 0 -0.5885698 -0.0568836 334 N 26 17 C19-1
+TOP 1 -0.6037573 -0.0257444 334 N 38 8 C19-2
+#
+# CMP 9
+CMP 2 -0.2713299 0.1611452 26 N C21 0.10uF ;0=1,1=0.0130
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'http://www.samsungsem.com/kr/support/product-search/mlcc/__icsFiles/afieldfile/2016/08/18/S_CL03A104KP3NNND.pdf'
+PRP ComponentLink2Description 'Digi-Key Listing'
+PRP ComponentLink2URL 'https://www.digikey.com/product-detail/en/samsung-electro-mechanics-america-inc/CL03A104KP3NNNC/1276-1115-2-ND/3886773'
+PRP Device_Package '0201 (0603 Metric)'
+PRP Manufacturer 'Samsung Electro-Mechanics America, Inc.'
+PRP PartId '20562'
+PRP Part_Number 'CL03A104KP3NNNC'
+PRP Price '0.0031'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '1276-1115-2-ND'
+PRP TemperatureCoefficient 'X5R'
+PRP TemperatureRange '-55C ~ 85C'
+PRP Tolerance '10%'
+PRP Value '0.10uF'
+PRP Voltage '10V'
+TOP 0 -0.2603603 0.1664953 244 N 26 16 C21-1
+TOP 1 -0.2822995 0.155795 244 N 25 2 C21-2
+#
+# CMP 10
+CMP 2 -0.5643166 -0.0257811 116 N C22 0.10uF ;0=1,1=0.0130
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'http://www.samsungsem.com/kr/support/product-search/mlcc/__icsFiles/afieldfile/2016/08/18/S_CL03A104KP3NNND.pdf'
+PRP ComponentLink2Description 'Digi-Key Listing'
+PRP ComponentLink2URL 'https://www.digikey.com/product-detail/en/samsung-electro-mechanics-america-inc/CL03A104KP3NNNC/1276-1115-2-ND/3886773'
+PRP Device_Package '0201 (0603 Metric)'
+PRP Manufacturer 'Samsung Electro-Mechanics America, Inc.'
+PRP PartId '20562'
+PRP Part_Number 'CL03A104KP3NNNC'
+PRP Price '0.0031'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '1276-1115-2-ND'
+PRP TemperatureCoefficient 'X5R'
+PRP TemperatureRange '-55C ~ 85C'
+PRP Tolerance '10%'
+PRP Value '0.10uF'
+PRP Voltage '10V'
+TOP 0 -0.5696667 -0.0148115 154 N 38 7 C22-1
+TOP 1 -0.5589665 -0.0367505 154 N 26 15 C22-2
+#
+# CMP 11
+CMP 2 -0.181847 -0.019685 26 N C24 0.10uF ;0=1,1=0.0130
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'http://www.samsungsem.com/kr/support/product-search/mlcc/__icsFiles/afieldfile/2016/08/18/S_CL03A104KP3NNND.pdf'
+PRP ComponentLink2Description 'Digi-Key Listing'
+PRP ComponentLink2URL 'https://www.digikey.com/product-detail/en/samsung-electro-mechanics-america-inc/CL03A104KP3NNNC/1276-1115-2-ND/3886773'
+PRP Device_Package '0201 (0603 Metric)'
+PRP Manufacturer 'Samsung Electro-Mechanics America, Inc.'
+PRP PartId '20562'
+PRP Part_Number 'CL03A104KP3NNNC'
+PRP Price '0.0031'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '1276-1115-2-ND'
+PRP TemperatureCoefficient 'X5R'
+PRP TemperatureRange '-55C ~ 85C'
+PRP Tolerance '10%'
+PRP Value '0.10uF'
+PRP Voltage '10V'
+TOP 0 -0.1708774 -0.014335 244 N 26 14 C24-1
+TOP 1 -0.1928167 -0.0250352 244 N 25 1 C24-2
+#
+# CMP 12
+CMP 2 -0.2618131 0.1173793 116 N C33 0.10uF ;0=1,1=0.0130
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'http://www.samsungsem.com/kr/support/product-search/mlcc/__icsFiles/afieldfile/2016/08/18/S_CL03A104KP3NNND.pdf'
+PRP ComponentLink2Description 'Digi-Key Listing'
+PRP ComponentLink2URL 'https://www.digikey.com/product-detail/en/samsung-electro-mechanics-america-inc/CL03A104KP3NNNC/1276-1115-2-ND/3886773'
+PRP Device_Package '0201 (0603 Metric)'
+PRP Manufacturer 'Samsung Electro-Mechanics America, Inc.'
+PRP PartId '20562'
+PRP Part_Number 'CL03A104KP3NNNC'
+PRP Price '0.0031'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '1276-1115-2-ND'
+PRP TemperatureCoefficient 'X5R'
+PRP TemperatureRange '-55C ~ 85C'
+PRP Tolerance '10%'
+PRP Value '0.10uF'
+PRP Voltage '10V'
+TOP 0 -0.2671633 0.1283488 154 N 26 11 C33-1
+TOP 1 -0.2564628 0.1064098 154 N 12 0 C33-2
+#
+# CMP 13
+CMP 2 -0.5712603 -0.2567207 26 N C25 1uF ;0=1,1=0.0130
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'http://datasheets.avx.com/cx5r.pdf'
+PRP ComponentLink2Description 'Digi-Key Listing'
+PRP ComponentLink2URL 'https://www.digikey.com/product-detail/en/avx-corporation/02016D105MAT2A/478-7862-2-ND/3079664'
+PRP Device_Package '0201 (0603 Metric)'
+PRP Manufacturer 'AVX Corporation'
+PRP PartId '20442'
+PRP Part_Number '02016D105MAT2A'
+PRP Price '0.063'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '478-7862-2-ND'
+PRP TemperatureCoefficient 'X5R'
+PRP TemperatureRange '-55C ~ 85C'
+PRP Tolerance '20%'
+PRP Value '1uF'
+PRP Voltage '6.3V'
+TOP 0 -0.5602908 -0.2513705 244 N 26 13 C25-1
+TOP 1 -0.5822298 -0.2620709 244 N 39 2 C25-2
+#
+# CMP 14
+CMP 2 -0.689064 -0.2397119 26 N C34 1uF ;0=1,1=0.0130
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'http://datasheets.avx.com/cx5r.pdf'
+PRP ComponentLink2Description 'Digi-Key Listing'
+PRP ComponentLink2URL 'https://www.digikey.com/product-detail/en/avx-corporation/02016D105MAT2A/478-7862-2-ND/3079664'
+PRP Device_Package '0201 (0603 Metric)'
+PRP Manufacturer 'AVX Corporation'
+PRP PartId '20442'
+PRP Part_Number '02016D105MAT2A'
+PRP Price '0.063'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '478-7862-2-ND'
+PRP TemperatureCoefficient 'X5R'
+PRP TemperatureRange '-55C ~ 85C'
+PRP Tolerance '20%'
+PRP Value '1uF'
+PRP Voltage '6.3V'
+TOP 0 -0.6780945 -0.2343617 244 N 26 7 C34-1
+TOP 1 -0.7000336 -0.245062 244 N 23 3 C34-2
+#
+# CMP 15
+CMP 2 -0.6347702 -0.090582 116 N C35 0.10uF ;0=1,1=0.0130
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'http://www.samsungsem.com/kr/support/product-search/mlcc/__icsFiles/afieldfile/2016/08/18/S_CL03A104KP3NNND.pdf'
+PRP ComponentLink2Description 'Digi-Key Listing'
+PRP ComponentLink2URL 'https://www.digikey.com/product-detail/en/samsung-electro-mechanics-america-inc/CL03A104KP3NNNC/1276-1115-2-ND/3886773'
+PRP Device_Package '0201 (0603 Metric)'
+PRP Manufacturer 'Samsung Electro-Mechanics America, Inc.'
+PRP PartId '20562'
+PRP Part_Number 'CL03A104KP3NNNC'
+PRP Price '0.0031'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '1276-1115-2-ND'
+PRP TemperatureCoefficient 'X5R'
+PRP TemperatureRange '-55C ~ 85C'
+PRP Tolerance '10%'
+PRP Value '0.10uF'
+PRP Voltage '10V'
+TOP 0 -0.6401204 -0.0796125 154 N 26 4 C35-1
+TOP 1 -0.62942 -0.1015515 154 N 39 0 C35-2
+#
+# CMP 16
+CMP 2 -0.6763752 -0.2028609 206 N C37 0.10uF ;0=1,1=0.0130
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'http://www.samsungsem.com/kr/support/product-search/mlcc/__icsFiles/afieldfile/2016/08/18/S_CL03A104KP3NNND.pdf'
+PRP ComponentLink2Description 'Digi-Key Listing'
+PRP ComponentLink2URL 'https://www.digikey.com/product-detail/en/samsung-electro-mechanics-america-inc/CL03A104KP3NNNC/1276-1115-2-ND/3886773'
+PRP Device_Package '0201 (0603 Metric)'
+PRP Manufacturer 'Samsung Electro-Mechanics America, Inc.'
+PRP PartId '20562'
+PRP Part_Number 'CL03A104KP3NNNC'
+PRP Price '0.0031'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '1276-1115-2-ND'
+PRP TemperatureCoefficient 'X5R'
+PRP TemperatureRange '-55C ~ 85C'
+PRP Tolerance '10%'
+PRP Value '0.10uF'
+PRP Voltage '10V'
+TOP 0 -0.6873447 -0.2082111 64 N 26 6 C37-1
+TOP 1 -0.6654057 -0.1975107 64 N 38 5 C37-2
+#
+# CMP 17
+CMP 2 -0.4911652 -0.1694721 206 N C38 0.10uF ;0=1,1=0.0130
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'http://www.samsungsem.com/kr/support/product-search/mlcc/__icsFiles/afieldfile/2016/08/18/S_CL03A104KP3NNND.pdf'
+PRP ComponentLink2Description 'Digi-Key Listing'
+PRP ComponentLink2URL 'https://www.digikey.com/product-detail/en/samsung-electro-mechanics-america-inc/CL03A104KP3NNNC/1276-1115-2-ND/3886773'
+PRP Device_Package '0201 (0603 Metric)'
+PRP Manufacturer 'Samsung Electro-Mechanics America, Inc.'
+PRP PartId '20562'
+PRP Part_Number 'CL03A104KP3NNNC'
+PRP Price '0.0031'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '1276-1115-2-ND'
+PRP TemperatureCoefficient 'X5R'
+PRP TemperatureRange '-55C ~ 85C'
+PRP Tolerance '10%'
+PRP Value '0.10uF'
+PRP Voltage '10V'
+TOP 0 -0.5021347 -0.1748223 64 N 38 6 C38-1
+TOP 1 -0.4801956 -0.164122 64 N 26 10 C38-2
+#
+# CMP 18
+CMP 2 -0.5222308 -0.105778 206 N C39 0.10uF ;0=1,1=0.0130
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'http://www.samsungsem.com/kr/support/product-search/mlcc/__icsFiles/afieldfile/2016/08/18/S_CL03A104KP3NNND.pdf'
+PRP ComponentLink2Description 'Digi-Key Listing'
+PRP ComponentLink2URL 'https://www.digikey.com/product-detail/en/samsung-electro-mechanics-america-inc/CL03A104KP3NNNC/1276-1115-2-ND/3886773'
+PRP Device_Package '0201 (0603 Metric)'
+PRP Manufacturer 'Samsung Electro-Mechanics America, Inc.'
+PRP PartId '20562'
+PRP Part_Number 'CL03A104KP3NNNC'
+PRP Price '0.0031'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '1276-1115-2-ND'
+PRP TemperatureCoefficient 'X5R'
+PRP TemperatureRange '-55C ~ 85C'
+PRP Tolerance '10%'
+PRP Value '0.10uF'
+PRP Voltage '10V'
+TOP 0 -0.5332004 -0.1111282 64 N 38 1 C39-1
+TOP 1 -0.5112612 -0.1004279 64 N 26 3 C39-2
+#
+# CMP 19
+CMP 9 -0.7791671 -0.2705171 296 N J4 PIGTAIL ;0=2,1=0.0000
+TOP 0 -0.8102328 -0.2068232 244 N 23 2 J4-1
+TOP 1 -0.7895223 -0.2492858 244 N 42 0 J4-2
+TOP 2 -0.768812 -0.2917485 244 N 43 0 J4-3
+TOP 3 -0.7481014 -0.3342111 244 N 26 2 J4-4
+#
+# CMP 20
+CMP 11 -0.7057151 -0.1427054 206 N R12 4.7k ;0=1,1=0.0102
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_04.pdf'
+PRP ComponentLink2Description 'Digi-Key Listing'
+PRP ComponentLink2URL 'https://www.digikey.com/product-detail/en/yageo/RC0201FR-074K7L/311-4.70KMTR-ND/1948894'
+PRP Device_Package '0201 (0603 Metric)'
+PRP Manufacturer 'Yageo'
+PRP PartId '19526'
+PRP Part_Number 'RC0201FR-074K7L'
+PRP PowerRating '0.05W, 1/20W'
+PRP Price '0.0056'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '311-4.70KMTR-ND'
+PRP TemperatureCoefficient '200ppm/C'
+PRP TemperatureRange '-55C ~ 125C'
+PRP Tolerance '1%'
+PRP Value '4.7k'
+TOP 0 -0.7172154 -0.1483144 64 N 46 0 R12-1
+TOP 1 -0.6942147 -0.1370963 64 N 38 3 R12-2
+#
+# CMP 21
+CMP 11 -0.6936339 -0.1674753 206 N R13 4.7k ;0=1,1=0.0102
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_04.pdf'
+PRP ComponentLink2Description 'Digi-Key Listing'
+PRP ComponentLink2URL 'https://www.digikey.com/product-detail/en/yageo/RC0201FR-074K7L/311-4.70KMTR-ND/1948894'
+PRP Device_Package '0201 (0603 Metric)'
+PRP Manufacturer 'Yageo'
+PRP PartId '19526'
+PRP Part_Number 'RC0201FR-074K7L'
+PRP PowerRating '0.05W, 1/20W'
+PRP Price '0.0056'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '311-4.70KMTR-ND'
+PRP TemperatureCoefficient '200ppm/C'
+PRP TemperatureRange '-55C ~ 125C'
+PRP Tolerance '1%'
+PRP Value '4.7k'
+TOP 0 -0.7051343 -0.1730844 64 N 45 0 R13-1
+TOP 1 -0.6821335 -0.1618662 64 N 38 4 R13-2
+#
+# CMP 22
+CMP 11 -0.7076772 -0.1122047 206 N R14 4.7k ;0=1,1=0.0102
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_04.pdf'
+PRP ComponentLink2Description 'Digi-Key Listing'
+PRP ComponentLink2URL 'https://www.digikey.com/product-detail/en/yageo/RC0201FR-074K7L/311-4.70KMTR-ND/1948894'
+PRP Device_Package '0201 (0603 Metric)'
+PRP Manufacturer 'Yageo'
+PRP PartId '19526'
+PRP Part_Number 'RC0201FR-074K7L'
+PRP PowerRating '0.05W, 1/20W'
+PRP Price '0.0056'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '311-4.70KMTR-ND'
+PRP TemperatureCoefficient '200ppm/C'
+PRP TemperatureRange '-55C ~ 125C'
+PRP Tolerance '1%'
+PRP Value '4.7k'
+TOP 0 -0.7191775 -0.1178136 64 N 47 0 R14-1
+TOP 1 -0.6961769 -0.1065956 64 N 38 2 R14-2
+#
+# CMP 23
+CMP 11 -0.7121845 -0.0845362 206 N R15 2.2k ;0=1,1=0.0102
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL '//media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/RC_Series_ds.pdf'
+PRP ComponentLink2Description 'Digi-Key Listing'
+PRP ComponentLink2URL 'https://www.digikey.com/product-detail/en/samsung-electro-mechanics-america-inc/RC0603F222CS/1276-3634-2-ND/3963941'
+PRP Device_Package '0201 (0603 Metric)'
+PRP Manufacturer 'Samsung Electro-Mechanics America, Inc.'
+PRP PartId '19542'
+PRP Part_Number 'RC0603F222CS'
+PRP PowerRating '0.05W, 1/20W'
+PRP Price '0.0019'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '1276-3634-2-ND'
+PRP TemperatureCoefficient '250ppm/C'
+PRP TemperatureRange '-55C ~ 125C'
+PRP Tolerance '1%'
+PRP Value '2.2k'
+TOP 0 -0.7236848 -0.0901453 64 N 26 5 R15-1
+TOP 1 -0.7006841 -0.0789271 64 N 44 0 R15-2
+#
+# CMP 24
+CMP 1 -0.5915366 -0.170243 116 N U5 LCMXO3LF-1300E-XUWG36 ;0=1,1=0.0228
+TOP 0 -0.6441809 -0.1521161 64 N 21 1 U5-A1
+TOP 1 -0.6372775 -0.1662703 64 N 0 22 U5-A2
+TOP 2 -0.6303739 -0.1804246 64 N 38 12 U5-A3
+TOP 3 -0.6234705 -0.1945788 64 N 0 21 U5-A4
+TOP 4 -0.616567 -0.208733 64 N 45 1 U5-A5
+TOP 5 -0.6096635 -0.2228873 64 N 41 0 U5-A6
+TOP 6 -0.6300267 -0.1452126 64 N 37 1 U5-B1
+TOP 7 -0.6231233 -0.1593668 64 N 0 20 U5-B2
+TOP 8 -0.6162198 -0.1735211 64 N 0 19 U5-B3
+TOP 9 -0.6093163 -0.1876753 64 N 46 1 U5-B4
+TOP 10 -0.6024128 -0.2018295 64 N 40 0 U5-B5
+TOP 11 -0.5955093 -0.2159838 64 N 0 18 U5-B6
+TOP 12 -0.6158724 -0.1383091 64 N 39 4 U5-C1
+TOP 13 -0.608969 -0.1524633 64 N 0 17 U5-C2
+TOP 14 -0.6020655 -0.1666175 64 N 47 1 U5-C3
+TOP 15 -0.595162 -0.1807718 64 N 0 16 U5-C4
+TOP 16 -0.5882585 -0.194926 64 N 26 29 U5-C5
+TOP 17 -0.581355 -0.2090803 64 N 7 0 U5-C6
+TOP 18 -0.6017182 -0.1314057 64 N 26 28 U5-D1
+TOP 19 -0.5948148 -0.1455599 64 N 0 15 U5-D2
+TOP 20 -0.5879111 -0.1597141 64 N 44 1 U5-D3
+TOP 21 -0.5810078 -0.1738684 64 N 0 14 U5-D4
+TOP 22 -0.5741043 -0.1880226 64 N 39 3 U5-D5
+TOP 23 -0.5672008 -0.2021769 64 N 0 13 U5-D6
+TOP 24 -0.587564 -0.1245022 64 N 17 1 U5-E1
+TOP 25 -0.5806605 -0.1386564 64 N 20 0 U5-E2
+TOP 26 -0.573757 -0.1528107 64 N 16 1 U5-E3
+TOP 27 -0.5668536 -0.1669649 64 N 0 12 U5-E4
+TOP 28 -0.5599501 -0.1811191 64 N 0 11 U5-E5
+TOP 29 -0.5530466 -0.1952734 64 N 27 1 U5-E6
+TOP 30 -0.5734097 -0.1175987 64 N 6 1 U5-F1
+TOP 31 -0.5665062 -0.1317529 64 N 38 11 U5-F2
+TOP 32 -0.5596027 -0.1459072 64 N 19 1 U5-F3
+TOP 33 -0.5526993 -0.1600614 64 N 18 1 U5-F4
+TOP 34 -0.5457958 -0.1742156 64 N 22 1 U5-F5
+TOP 35 -0.5388923 -0.1883699 64 N 38 10 U5-F6
+#
+# CMP 25
+CMP 5 -0.6541994 -0.2752711 296 N U6 MIC5367_LDO_1.2V ;0=1,1=0.0000
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '576-3723-6-ND'
+TOP 0 -0.6676861 -0.3037506 244 N 23 4 U6-1
+TOP 1 -0.6763154 -0.2860578 244 N 26 9 U6-2
+TOP 2 -0.6849448 -0.2683649 244 N 23 5 U6-3
+TOP 3 -0.6407128 -0.2467916 244 N 39 1 U6-4
+TOP 4 -0.6320834 -0.2644844 244 N 0 0 U6-5
+TOP 5 -0.6234541 -0.2821772 244 N 0 1 U6-6
+TOP 6 -0.6541994 -0.2752711 244 N 26 8 U6-7
+#

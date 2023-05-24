@@ -1,0 +1,37 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\Projects\OSP_DJB_Flex\Pick Place for mic_flex_panel.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       20-07-22
+Time:       22:35
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"J1","mic_connect","TopLayer","mic_connect","-1290.261","-1416.414","0",""
+"MK1","AMM-3738-B-R","TopLayer","665-AMM-3738-B-R","-1621.360","-1255.784","90",""
+"C1","GRM033R60J155ME14D","TopLayer","FP-GRM033-0_03-IPC_B","-1471.193","-1295.154","0","Chip Multilayer Ceramic Capacitors for General Purpose, 0201, 1.5uF, X5R, 15%, 20%, 6.3V"
+"J1","mic_connect","TopLayer","mic_connect","-1290.261","-504.997","0",""
+"MK1","AMM-3738-B-R","TopLayer","665-AMM-3738-B-R","-1621.360","-344.367","90",""
+"C1","GRM033R60J155ME14D","TopLayer","FP-GRM033-0_03-IPC_B","-1471.193","-383.737","0","Chip Multilayer Ceramic Capacitors for General Purpose, 0201, 1.5uF, X5R, 15%, 20%, 6.3V"
+"J1","mic_connect","TopLayer","mic_connect","-1290.261","406.421","0",""
+"MK1","AMM-3738-B-R","TopLayer","665-AMM-3738-B-R","-1621.360","567.051","90",""
+"C1","GRM033R60J155ME14D","TopLayer","FP-GRM033-0_03-IPC_B","-1471.193","527.680","0","Chip Multilayer Ceramic Capacitors for General Purpose, 0201, 1.5uF, X5R, 15%, 20%, 6.3V"
+"J1","mic_connect","TopLayer","mic_connect","-1290.261","1317.838","0",""
+"MK1","AMM-3738-B-R","TopLayer","665-AMM-3738-B-R","-1621.360","1478.468","90",""
+"C1","GRM033R60J155ME14D","TopLayer","FP-GRM033-0_03-IPC_B","-1471.193","1439.098","0","Chip Multilayer Ceramic Capacitors for General Purpose, 0201, 1.5uF, X5R, 15%, 20%, 6.3V"
+"J1","mic_connect","TopLayer","mic_connect","702.850","-1416.414","0",""
+"MK1","AMM-3738-B-R","TopLayer","665-AMM-3738-B-R","371.751","-1255.784","90",""
+"C1","GRM033R60J155ME14D","TopLayer","FP-GRM033-0_03-IPC_B","521.917","-1295.154","0","Chip Multilayer Ceramic Capacitors for General Purpose, 0201, 1.5uF, X5R, 15%, 20%, 6.3V"
+"J1","mic_connect","TopLayer","mic_connect","702.850","-504.997","0",""
+"MK1","AMM-3738-B-R","TopLayer","665-AMM-3738-B-R","371.751","-344.367","90",""
+"C1","GRM033R60J155ME14D","TopLayer","FP-GRM033-0_03-IPC_B","521.917","-383.737","0","Chip Multilayer Ceramic Capacitors for General Purpose, 0201, 1.5uF, X5R, 15%, 20%, 6.3V"
+"J1","mic_connect","TopLayer","mic_connect","702.850","406.421","0",""
+"MK1","AMM-3738-B-R","TopLayer","665-AMM-3738-B-R","371.751","567.051","90",""
+"C1","GRM033R60J155ME14D","TopLayer","FP-GRM033-0_03-IPC_B","521.917","527.680","0","Chip Multilayer Ceramic Capacitors for General Purpose, 0201, 1.5uF, X5R, 15%, 20%, 6.3V"
+"J1","mic_connect","TopLayer","mic_connect","702.850","1317.838","0",""
+"MK1","AMM-3738-B-R","TopLayer","665-AMM-3738-B-R","371.751","1478.468","90",""
+"C1","GRM033R60J155ME14D","TopLayer","FP-GRM033-0_03-IPC_B","521.917","1439.098","0","Chip Multilayer Ceramic Capacitors for General Purpose, 0201, 1.5uF, X5R, 15%, 20%, 6.3V"

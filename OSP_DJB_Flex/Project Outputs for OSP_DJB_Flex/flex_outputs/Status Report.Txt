@@ -1,0 +1,28 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [OSP_DJB_Flex.PrjPcb]
+   Generated File[djb_v2_flex.GTO]
+   Generated File[djb_v2_flex.GTP]
+   Generated File[djb_v2_flex.GTS]
+   Generated File[djb_v2_flex.GTL]
+   Generated File[djb_v2_flex.GBL]
+   Generated File[djb_v2_flex.GBS]
+   Generated File[djb_v2_flex.GM1]
+   Generated File[djb_v2_flex.GM2]
+   Generated File[djb_v2_flex.GM3]
+   Generated File[djb_v2_flex.GM4]
+   Generated File[djb_v2_flex.GM5]
+   Generated File[djb_v2_flex.GM6]
+   Generated File[djb_v2_flex.GM15]
+   Generated File[djb_v2_flex.GM16]
+   Generated File[djb_v2_flex.GPT]
+   Generated File[djb_v2_flex.GPB]
+   Generated File[djb_v2_flex.RUL]
+   Generated File[djb_v2_flex.EXTREP]
+   Generated File[djb_v2_flex.REP]
+
+
+Files Generated   : 19
+Documents Printed : 0
+
+Finished Output Generation At 6:23:57 PM On 2022-02-09

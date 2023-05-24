@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=LRCLK Pin=U5-B1
+Removed Pin From Net: NetName=BCLK Pin=U5-B2
+Removed Pin From Net: NetName=CCLK Pin=U5-B6
+Removed Pin From Net: NetName=MOSI Pin=U5-C1
+Removed Pin From Net: NetName=MISO Pin=U5-C2
+Removed Pin From Net: NetName=LVDS_IN Pin=U5-C6
+Removed Pin From Net: NetName=SCLK Pin=U5-D2
+Removed Pin From Net: NetName=IN_EN Pin=U5-D6
+Removed Pin From Net: NetName=DSPK Pin=U5-E2
+Removed Pin From Net: NetName=DMIC Pin=U5-E3
+Removed Pin From Net: NetName=OUT_EN Pin=U5-E6
+Removed Pin From Net: NetName=CS_C Pin=U5-F4
+Removed Pin From Net: NetName=LVDS_OUT Pin=U5-F6
+Removed Pin From Net: NetName=GND Pin=U6-11
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Pin To Net: Unknown Pin: Pin R11-1
+Add Pin To Net: Unknown Pin: Pin R11-2
+Added Pin To Net: NetName=CS_C Pin=U5-B2
+Added Pin To Net: NetName=LVDS_IN Pin=U5-B5
+Added Pin To Net: NetName=LRCLK Pin=U5-B6
+Added Pin To Net: NetName=BCLK Pin=U5-C6
+Added Pin To Net: NetName=OUT_EN Pin=U5-D5
+Added Pin To Net: NetName=DSPK Pin=U5-D6
+Added Pin To Net: NetName=IN_EN Pin=U5-E5
+Added Pin To Net: NetName=DMIC Pin=U5-E6
+Added Pin To Net: NetName=MOSI Pin=U5-F3
+Added Pin To Net: NetName=MISO Pin=U5-F4
+Added Pin To Net: NetName=LVDS_OUT Pin=U5-F5
+Added Pin To Net: NetName=CCLK Pin=U5-F6

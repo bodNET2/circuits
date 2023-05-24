@@ -1,0 +1,40 @@
+Change Component Designator: OldDesignator=H10 NewDesignator=H5
+Change Component Designator: OldDesignator=H11 NewDesignator=H6
+Change Component Designator: OldDesignator=H15 NewDesignator=H12
+Change Component Designator: OldDesignator=H16 NewDesignator=H13
+Added Component: Designator=H3(SMITHS_S-00-U-1.3_hole)
+Added Component: Designator=H4(SMITHS_S-00-U-1.3_hole)
+Added Component: Designator=H7(SMITHS_S-00-U-1.3_hole)
+Added Component: Designator=H8(SMITHS_S-00-U-1.3_hole)
+Added Component: Designator=H9(SMITHS_S-00-U-1.3_hole)
+Added Component: Designator=H10(SMITHS_S-00-U-1.3_hole)
+Added Component: Designator=H11(SMITHS_S-00-U-1.3_hole)
+Added Component: Designator=H14(SMITHS_S-00-U-1.3_hole)
+Added Component: Designator=H15(SMITHS_S-00-U-1.3_hole)
+Added Component: Designator=H16(SMITHS_S-00-U-1.3_hole)
+Added Component: Designator=J1(2-POS_HEADER)
+Added Component: Designator=J2(2-POS_HEADER)
+Added Component: Designator=J4(AMPHENOL_HFW6R-1STE1LF)
+Added Pin To Net: NetName=+5V Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=+3V3 Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=SDO Pin=J4-1
+Added Pin To Net: NetName=SDI Pin=J4-2
+Added Pin To Net: NetName=SS Pin=J4-3
+Added Pin To Net: NetName=SCK Pin=J4-4
+Added Pin To Net: NetName=CDONE Pin=J4-5
+Added Pin To Net: NetName=CRESET_B Pin=J4-6
+Added Member To Class: ClassName=djb_v2_jig Member=Component H3 SMITHS_S-00-U-1.3_hole
+Added Member To Class: ClassName=djb_v2_jig Member=Component H4 SMITHS_S-00-U-1.3_hole
+Added Member To Class: ClassName=djb_v2_jig Member=Component H7 SMITHS_S-00-U-1.3_hole
+Added Member To Class: ClassName=djb_v2_jig Member=Component H8 SMITHS_S-00-U-1.3_hole
+Added Member To Class: ClassName=djb_v2_jig Member=Component H9 SMITHS_S-00-U-1.3_hole
+Added Member To Class: ClassName=djb_v2_jig Member=Component H10 SMITHS_S-00-U-1.3_hole
+Added Member To Class: ClassName=djb_v2_jig Member=Component H11 SMITHS_S-00-U-1.3_hole
+Added Member To Class: ClassName=djb_v2_jig Member=Component H14 SMITHS_S-00-U-1.3_hole
+Added Member To Class: ClassName=djb_v2_jig Member=Component H15 SMITHS_S-00-U-1.3_hole
+Added Member To Class: ClassName=djb_v2_jig Member=Component H16 SMITHS_S-00-U-1.3_hole
+Added Member To Class: ClassName=djb_v2_jig Member=Component J1 HDR_2
+Added Member To Class: ClassName=djb_v2_jig Member=Component J2 HDR_2
+Added Member To Class: ClassName=djb_v2_jig Member=Component J4 FFC

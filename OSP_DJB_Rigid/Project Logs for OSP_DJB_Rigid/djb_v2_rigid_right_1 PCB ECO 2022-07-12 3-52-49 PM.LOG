@@ -1,0 +1,81 @@
+Removed Member From Class: ClassName=rigidPCB2_rev Member=C17
+Removed Member From Class: ClassName=rigidPCB2_rev Member=C20
+Removed Member From Class: ClassName=rigidPCB2_rev Member=C24
+Removed Member From Class: ClassName=rigidPCB2_rev Member=C28
+Removed Member From Class: ClassName=rigidPCB2_rev Member=C29
+Removed Member From Class: ClassName=rigidPCB2_rev Member=R1
+Removed Member From Class: ClassName=rigidPCB2_rev Member=R4
+Removed Member From Class: ClassName=rigidPCB2_rev Member=R5
+Removed Member From Class: ClassName=rigidPCB2_rev Member=R7
+Removed Member From Class: ClassName=rigidPCB_rev Member=R11
+Change Footprint: Footprint Not Found CAP 0402/1005
+Change Footprint: Footprint Not Found CAP 0402/1005
+Add Component: Footprint Not Found CAP 0201/0603
+Add Component: Footprint Not Found CAP 0201/0603
+Add Component: Footprint Not Found RES 0201/0603
+Add Component: Footprint Not Found RES 0201/0603
+Add Component: Footprint Not Found TP_SMD_DJB
+Add Component: Footprint Not Found TP_SMD_DJB
+Add Component: Footprint Not Found LGA14R50P5X4_300X250X83
+Add Pin To Net: Unknown Pin: Pin C34-1
+Add Pin To Net: Unknown Pin: Pin C34-2
+Add Pin To Net: Unknown Pin: Pin C35-1
+Add Pin To Net: Unknown Pin: Pin C35-2
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J1-2
+Add Pin To Net: Unknown Pin: Pin J1-3
+Add Pin To Net: Unknown Pin: Pin J1-4
+Add Pin To Net: Unknown Pin: Pin J1-5
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R2-2
+Add Pin To Net: Unknown Pin: Pin R15-1
+Add Pin To Net: Unknown Pin: Pin TP9-1
+Add Pin To Net: Unknown Pin: Pin TP10-1
+Add Pin To Net: Unknown Pin: Pin U6-1
+Add Pin To Net: Unknown Pin: Pin U6-2
+Add Pin To Net: Unknown Pin: Pin U6-3
+Add Pin To Net: Unknown Pin: Pin U6-4
+Add Pin To Net: Unknown Pin: Pin U6-5
+Add Pin To Net: Unknown Pin: Pin U6-6
+Add Pin To Net: Unknown Pin: Pin U6-7
+Add Pin To Net: Unknown Pin: Pin U6-8
+Add Pin To Net: Unknown Pin: Pin U7-1
+Add Pin To Net: Unknown Pin: Pin U7-5
+Add Pin To Net: Unknown Pin: Pin U7-6
+Add Pin To Net: Unknown Pin: Pin U7-7
+Add Pin To Net: Unknown Pin: Pin U7-8
+Add Pin To Net: Unknown Pin: Pin U7-12
+Add Pin To Net: Unknown Pin: Pin U7-13
+Add Pin To Net: Unknown Pin: Pin U7-14
+Added Member To Class: ClassName=rigidPCB_rev Member=Component C3 0.10uF
+Added Member To Class: ClassName=rigidPCB_rev Member=Component C7 10uF
+Added Member To Class: ClassName=rigidPCB_rev Member=Component C10 0.10uF
+Added Member To Class: ClassName=rigidPCB_rev Member=Component C12 CL03A105KQ3CSNH
+Added Member To Class: ClassName=rigidPCB_rev Member=Component C17 1uF
+Added Member To Class: ClassName=rigidPCB_rev Member=Component C18 1uF
+Added Member To Class: ClassName=rigidPCB_rev Member=Component C19 1uF
+Added Member To Class: ClassName=rigidPCB_rev Member=Component C22 0.10uF
+Added Member To Class: ClassName=rigidPCB_rev Member=Component C23 1uF
+Added Member To Class: ClassName=rigidPCB_rev Member=Component C27 1uF
+Added Member To Class: ClassName=rigidPCB2_rev Member=Component C30 0.10uF
+Added Member To Class: ClassName=rigidPCB2_rev Member=Component C31 0.10uF
+Added Member To Class: ClassName=rigidPCB2_rev Member=Component C32 0.10uF
+Added Member To Class: ClassName=rigidPCB2_rev Member=Component C33 0.10uF
+Add Class Member: Failed to add class member : Component C34 0.10uF
+Add Class Member: Failed to add class member : Component C35 0.10uF
+Added Member To Class: ClassName=rigidPCB2_rev Member=Component C36 0.10uF
+Add Class Member: Failed to add class member : Component J1 mic_speaker_connect
+Add Class Member: Failed to add class member : Component R2 1k
+Added Member To Class: ClassName=rigidPCB_rev Member=Component R4 1k
+Added Member To Class: ClassName=rigidPCB_rev Member=Component R6 RC0402FR-071K4L
+Added Member To Class: ClassName=rigidPCB2_rev Member=Component R8 Res3
+Added Member To Class: ClassName=rigidPCB2_rev Member=Component R10 Res3
+Added Member To Class: ClassName=rigidPCB2_rev Member=Component R12 4.7k
+Added Member To Class: ClassName=rigidPCB2_rev Member=Component R14 4.7k
+Add Class Member: Failed to add class member : Component R15 2.2k
+Added Member To Class: ClassName=rigidPCB2_rev Member=Component R16 RC0603FR-0710KL
+Add Class Member: Failed to add class member : Component TP9 TP_SMD_DJB
+Add Class Member: Failed to add class member : Component TP10 TP_SMD_DJB
+Added Member To Class: ClassName=rigidPCB_rev Member=Component U2 MIC5504-1.8YMT
+Add Class Member: Failed to add class member : Component U6 NBA3N206SDG
+Add Class Member: Failed to add class member : Component U7 BMI160

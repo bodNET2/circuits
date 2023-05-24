@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=SDO Pin=J3-1
+Removed Pin From Net: NetName=SDI Pin=J3-2
+Removed Pin From Net: NetName=SS Pin=J3-3
+Removed Pin From Net: NetName=SCK Pin=J3-4
+Removed Pin From Net: NetName=CDONE Pin=J3-5
+Removed Pin From Net: NetName=CRESET_B Pin=J3-6
+Removed Pin From Net: NetName=SDO Pin=J4-1
+Removed Pin From Net: NetName=SDI Pin=J4-2
+Removed Pin From Net: NetName=SS Pin=J4-3
+Removed Pin From Net: NetName=SCK Pin=J4-4
+Removed Pin From Net: NetName=CDONE Pin=J4-5
+Removed Pin From Net: NetName=CRESET_B Pin=J4-6
+Added Pin To Net: NetName=SCK Pin=J3-1
+Added Pin To Net: NetName=SS Pin=J3-2
+Added Pin To Net: NetName=SDO Pin=J3-3
+Added Pin To Net: NetName=SDI Pin=J3-4
+Added Pin To Net: NetName=CRESET_B Pin=J3-5
+Added Pin To Net: NetName=CDONE Pin=J3-6
+Added Pin To Net: NetName=SCK Pin=J4-1
+Added Pin To Net: NetName=SS Pin=J4-2
+Added Pin To Net: NetName=SDO Pin=J4-3
+Added Pin To Net: NetName=SDI Pin=J4-4
+Added Pin To Net: NetName=CRESET_B Pin=J4-5
+Added Pin To Net: NetName=CDONE Pin=J4-6
+Added Member To Class: ClassName=djb_v2_jig Member=Component H10 SMITHS_S-00-U-1.3_hole
+Added Member To Class: ClassName=djb_v2_jig Member=Component H11 SMITHS_S-00-U-1.3_hole
+Added Member To Class: ClassName=djb_v2_jig Member=Component H15 SMITHS_S-00-U-1.3_hole
+Added Member To Class: ClassName=djb_v2_jig Member=Component H16 SMITHS_S-00-U-1.3_hole

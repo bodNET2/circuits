@@ -1,0 +1,784 @@
+*************************************************************
+FileName = djb_v2_rigid_panel.GBR
+AutoAperture = True
+*************************************************************
+Generating : Bottom Pad Master
+      File : djb_v2_rigid_panel.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Route Tool Path
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D15
+    D23
+    D24
+    D25
+    D41
+    D42
+    D43
+    D44
+    D45
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : djb_v2_rigid_panel.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Route Tool Path
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : djb_v2_rigid_panel.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Route Tool Path
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D23
+    D24
+    D25
+    D41
+    D42
+    D43
+    D44
+    D45
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+*************************************************************
+
+*************************************************************
+Generating : Inner 2
+      File : djb_v2_rigid_panel.G2
+
+    Adding Layer      : Inner 2
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Route Tool Path
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D47
+    D48
+    D54
+    D55
+    D56
+*************************************************************
+
+*************************************************************
+Generating : Inner 1
+      File : djb_v2_rigid_panel.G1
+
+    Adding Layer      : Inner 1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Route Tool Path
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D47
+    D48
+    D52
+    D53
+    D54
+    D55
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : djb_v2_rigid_panel.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Route Tool Path
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : djb_v2_rigid_panel.GTO
+
+    Adding Layer      : Top Overlay
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Route Tool Path
+
+
+Used DCodes :
+    D10
+    D40
+    D47
+    D48
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : djb_v2_rigid_panel.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Route Tool Path
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : djb_v2_rigid_panel.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Route Tool Path
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D24
+    D31
+    D47
+    D48
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : djb_v2_rigid_panel.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Route Tool Path
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D24
+    D47
+    D48
+    D76
+    D77
+    D78
+    D79
+    D87
+    D88
+    D102
+    D103
+    D104
+    D105
+    D106
+    D108
+    D109
+    D110
+    D111
+    D112
+    D113
+    D114
+    D115
+    D116
+    D117
+    D118
+    D119
+    D120
+    D121
+    D122
+    D123
+    D124
+    D125
+    D126
+    D127
+    D128
+    D129
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : djb_v2_rigid_panel.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Route Tool Path
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D15
+    D23
+    D24
+    D25
+    D41
+    D42
+    D43
+    D44
+    D45
+    D47
+    D48
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : djb_v2_rigid_panel.GBO
+
+    Adding Layer      : Bottom Overlay
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Route Tool Path
+
+
+Used DCodes :
+    D40
+    D47
+    D48
+    D69
+    D70
+    D71
+    D72
+    D73
+    D75
+    D130
+    D131
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : djb_v2_rigid_panel.GM1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Route Tool Path
+
+
+Used DCodes :
+    D47
+    D48
+*************************************************************
+
+*************************************************************
+Generating : Route Tool Path
+      File : djb_v2_rigid_panel.GM2
+
+    Adding Layer      : Route Tool Path
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Route Tool Path
+
+
+Used DCodes :
+    D47
+    D48
+*************************************************************
+
+*************************************************************
+Generating : Top Component Center
+      File : djb_v2_rigid_panel.GM3
+
+    Adding Layer      : Top Component Center
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Route Tool Path
+
+
+Used DCodes :
+    D47
+    D48
+    D70
+    D75
+*************************************************************
+
+*************************************************************
+Generating : Bottom Component Center
+      File : djb_v2_rigid_panel.GM4
+
+    Adding Layer      : Bottom Component Center
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Route Tool Path
+
+
+Used DCodes :
+    D47
+    D48
+    D71
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 5
+      File : djb_v2_rigid_panel.GM15
+
+    Adding Layer      : Mechanical 5
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Route Tool Path
+
+
+Used DCodes :
+    D40
+    D47
+    D48
+    D69
+    D72
+    D75
+    D131
+    D132
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 5
+      File : djb_v2_rigid_panel.GM16
+
+    Adding Layer      : Mechanical 5
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Route Tool Path
+
+
+Used DCodes :
+    D40
+    D47
+    D48
+    D69
+    D75
+    D132
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 5
+      File : djb_v2_rigid_panel.GM5
+
+    Adding Layer      : Mechanical 5
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Route Tool Path
+
+
+Used DCodes :
+    D47
+    D48
+    D71
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 6
+      File : djb_v2_rigid_panel.GM6
+
+    Adding Layer      : Mechanical 6
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Route Tool Path
+
+
+Used DCodes :
+    D47
+    D48
+    D71
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 7
+      File : djb_v2_rigid_panel.GM7
+
+    Adding Layer      : Mechanical 7
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Route Tool Path
+
+
+Used DCodes :
+    D47
+    D48
+    D69
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : djb_v2_rigid_panel.GM13
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Route Tool Path
+
+
+Used DCodes :
+    D47
+    D48
+    D69
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 20
+      File : djb_v2_rigid_panel.GM20
+
+    Adding Layer      : Mechanical 20
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Route Tool Path
+
+
+Used DCodes :
+    D47
+    D48
+    D71
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 21
+      File : djb_v2_rigid_panel.GM21
+
+    Adding Layer      : Mechanical 21
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Route Tool Path
+
+
+Used DCodes :
+    D47
+    D48
+    D71
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 23
+      File : djb_v2_rigid_panel.GM23
+
+    Adding Layer      : Mechanical 23
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Route Tool Path
+
+
+Used DCodes :
+    D47
+    D48
+    D71
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 24
+      File : djb_v2_rigid_panel.GM24
+
+    Adding Layer      : Mechanical 24
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Route Tool Path
+
+
+Used DCodes :
+    D47
+    D48
+    D69
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : djb_v2_rigid_panel.GM
+
+
+Used DCodes :
+    D133
+*************************************************************
+

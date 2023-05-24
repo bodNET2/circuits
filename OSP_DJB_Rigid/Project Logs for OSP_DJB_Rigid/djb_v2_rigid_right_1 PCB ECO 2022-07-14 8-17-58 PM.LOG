@@ -1,0 +1,304 @@
+Removed Pin From Net: NetName=GND Pin=C30-2
+Removed Pin From Net: NetName=GND Pin=R16-2
+Removed Member From Class: ClassName=rigidPCB2_rev Member=R16
+Change Footprint: Footprint Not Found CAP 0402/1005
+Change Component Footprint: Designator=R8 Old Footprint=J1-0603 New Footprint=RESC1005X40X25ML05T10
+Change Component Footprint: Designator=R9 Old Footprint=J1-0603 New Footprint=RESC1005X40X25ML05T10
+Change Component Footprint: Designator=R10 Old Footprint=J1-0603 New Footprint=RESC1005X40X25ML05T10
+Change Component Comment : Designator=R9 Old Comment=Res3 New Comment=RC0402FR-0745R3L
+Change Component Comment : Designator=R8 Old Comment=Res3 New Comment=RC0402FR-07470RL
+Change Component Comment : Designator=R10 Old Comment=Res3 New Comment=RC0402FR-07470RL
+Change Managed Component Library Link : Designator=R8 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=4E38DCEC-F55C-45A1-AAA8-DD272DE0F131 Old RevisionGUID= New RevisionGUID=7EB2F701-FD73-4617-A884-6483C49B5128
+Change Managed Component Library Link : Designator=R9 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=01E5C3C3-BC67-4DBA-92EB-ADB9095A61C8 Old RevisionGUID= New RevisionGUID=85CDFAEF-9CC1-49F2-A104-F713C804A97A
+Change Managed Component Library Link : Designator=R10 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=4E38DCEC-F55C-45A1-AAA8-DD272DE0F131 Old RevisionGUID= New RevisionGUID=7EB2F701-FD73-4617-A884-6483C49B5128
+Change component parameters: Designator = "R8" ("R8"); Footprint = "J1-0603"; UniqueID = "\BLBYTKFC" ("\BLBYTKFC")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo / Phycomp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RC0402FR-07470RL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9" ("R9"); Footprint = "J1-0603"; UniqueID = "\MXFPAFNW" ("\MXFPAFNW")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo / Phycomp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RC0402FR-0745R3L"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10" ("R10"); Footprint = "J1-0603"; UniqueID = "\MIZQUEDC" ("\MIZQUEDC")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo / Phycomp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RC0402FR-07470RL"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found CAP 0402/1005
+Add Component: Footprint Not Found CAP 0201/0603
+Add Component: Footprint Not Found CAP 0201/0603
+Add Component: Footprint Not Found CAP 0201/0603
+Add Component: Footprint Not Found CAP 0402/1005
+Add Component: Footprint Not Found CAP 0201/0603
+Add Component: Footprint Not Found CAP 0201/0603
+Add Component: Footprint Not Found CAP 0201/0603
+Added Component: Designator=C28(FP-GRM033-0_03-IPC_B)
+Add component (AddParameter): Name = "Capacitance"; Value = "1.5uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "0.024inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "0.013inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "6.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "6.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.012inch"; VariantName = "[No Variations]"
+Added Component: Designator=C29(CAPC0603X33X15ML03T05)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CL03A104KQ3NNNC"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found CAP 0201/0603
+Add Component: Footprint Not Found CAP 0201/0603
+Add Component: Footprint Not Found CAP 0201/0603
+Add Component: Footprint Not Found CAP 0201/0603
+Add Component: Footprint Not Found CAP 0201/0603
+Added Component: Designator=J3(PIGTAIL)
+Add Component: Footprint Not Found RES 0201/0603
+Add Component: Footprint Not Found RES 0201/0603
+Add Component: Footprint Not Found RES 0201/0603
+Add Component: Footprint Not Found RES 0201/0603
+Added Component: Designator=R14(FP-RC0603-0_55-IPC_C)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Construction"; Value = "Rectangular"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Moisture Resistant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "0.3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "Not"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Type"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size Code"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "7.1E-05oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.8mm"; VariantName = "[No Variations]"
+Added Component: Designator=TP1(TP_SMD_DJB)
+Add component (AddParameter): Name = "DNP"; Value = "DNP"; VariantName = "[No Variations]"
+Added Component: Designator=TP2(TP_SMD_DJB)
+Add component (AddParameter): Name = "DNP"; Value = "DNP"; VariantName = "[No Variations]"
+Added Component: Designator=TP3(TP_SMD_DJB)
+Add component (AddParameter): Name = "DNP"; Value = "DNP"; VariantName = "[No Variations]"
+Added Component: Designator=TP5(TP_SMD_DJB)
+Add component (AddParameter): Name = "DNP"; Value = "DNP"; VariantName = "[No Variations]"
+Added Component: Designator=TP6(TP_SMD_DJB)
+Add component (AddParameter): Name = "DNP"; Value = "DNP"; VariantName = "[No Variations]"
+Added Component: Designator=TP7(TP_SMD_DJB)
+Add component (AddParameter): Name = "DNP"; Value = "DNP"; VariantName = "[No Variations]"
+Added Component: Designator=TP8(TP_SMD_DJB)
+Add component (AddParameter): Name = "DNP"; Value = "DNP"; VariantName = "[No Variations]"
+Added Component: Designator=TP9(TP_SMD_DJB)
+Add component (AddParameter): Name = "DNP"; Value = "DNP"; VariantName = "[No Variations]"
+Added Component: Designator=TP10(TP_SMD_DJB)
+Add component (AddParameter): Name = "DNP"; Value = "DNP"; VariantName = "[No Variations]"
+Added Component: Designator=U1(ADAU1772BCPZ)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Arrow Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "RSComponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "ADAU1772BCPZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "8071681"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found LDO 1.2V
+Added Component: Designator=U5(36-XFBGA)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found LGA14R50P5X4_300X250X83
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin C8-1
+Add Pin To Net: Unknown Pin: Pin C8-2
+Add Pin To Net: Unknown Pin: Pin C9-1
+Add Pin To Net: Unknown Pin: Pin C9-2
+Add Pin To Net: Unknown Pin: Pin C11-1
+Add Pin To Net: Unknown Pin: Pin C11-2
+Add Pin To Net: Unknown Pin: Pin C19-1
+Add Pin To Net: Unknown Pin: Pin C20-1
+Add Pin To Net: Unknown Pin: Pin C20-2
+Add Pin To Net: Unknown Pin: Pin C22-1
+Add Pin To Net: Unknown Pin: Pin C22-2
+Added Pin To Net: NetName=MIC4 Pin=C28-1
+Added Pin To Net: NetName=NetC28_2 Pin=C28-2
+Added Pin To Net: NetName=GND Pin=C29-1
+Added Pin To Net: NetName=NetC29_2 Pin=C29-2
+Added Pin To Net: NetName=GND Pin=C30-1
+Added Pin To Net: NetName=V_B1 Pin=C30-2
+Add Pin To Net: Unknown Pin: Pin C31-1
+Add Pin To Net: Unknown Pin: Pin C31-2
+Add Pin To Net: Unknown Pin: Pin C33-1
+Add Pin To Net: Unknown Pin: Pin C33-2
+Add Pin To Net: Unknown Pin: Pin C34-1
+Add Pin To Net: Unknown Pin: Pin C35-1
+Add Pin To Net: Unknown Pin: Pin C35-2
+Add Pin To Net: Unknown Pin: Pin C37-1
+Add Pin To Net: Unknown Pin: Pin C37-2
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J1-2
+Add Pin To Net: Unknown Pin: Pin J1-3
+Add Pin To Net: Unknown Pin: Pin J1-4
+Add Pin To Net: Unknown Pin: Pin J1-5
+Added Pin To Net: NetName=+3V7 Pin=J3-1
+Added Pin To Net: NetName=LVDS_N Pin=J3-2
+Added Pin To Net: NetName=LVDS_P Pin=J3-3
+Added Pin To Net: NetName=GND Pin=J3-4
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R2-2
+Add Pin To Net: Unknown Pin: Pin R7-1
+Add Pin To Net: Unknown Pin: Pin R7-2
+Add Pin To Net: Unknown Pin: Pin R13-2
+Added Pin To Net: NetName=GND Pin=R14-2
+Added Pin To Net: NetName=CDONE Pin=TP1-1
+Added Pin To Net: NetName=+3V7 Pin=TP3-1
+Added Pin To Net: NetName=GND Pin=TP9-1
+Added Pin To Net: NetName=GND Pin=TP10-1
+Added Pin To Net: NetName=MISO Pin=U1-1
+Added Pin To Net: NetName=SCLK Pin=U1-2
+Added Pin To Net: NetName=MOSI Pin=U1-3
+Added Pin To Net: NetName=CS_C Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=NetC13_1 Pin=U1-8
+Added Pin To Net: NetName=MIC1 Pin=U1-9
+Added Pin To Net: NetName=+3V3_A Pin=U1-10
+Added Pin To Net: NetName=GND Pin=U1-11
+Added Pin To Net: NetName=NetC21_1 Pin=U1-12
+Added Pin To Net: NetName=NetC14_1 Pin=U1-13
+Added Pin To Net: NetName=MIC2 Pin=U1-14
+Added Pin To Net: NetName=NetC15_1 Pin=U1-15
+Added Pin To Net: NetName=MIC3 Pin=U1-16
+Added Pin To Net: NetName=NetC16_1 Pin=U1-17
+Added Pin To Net: NetName=MIC4 Pin=U1-18
+Added Pin To Net: NetName=+3V3_A Pin=U1-19
+Added Pin To Net: NetName=GND Pin=U1-20
+Added Pin To Net: NetName=RCVN Pin=U1-21
+Added Pin To Net: NetName=RCVP Pin=U1-22
+Added Pin To Net: NetName=GND Pin=U1-23
+Added Pin To Net: NetName=+3V3_A Pin=U1-24
+Added Pin To Net: NetName=NetC23_2 Pin=U1-27
+Added Pin To Net: NetName=NetC2_2 Pin=U1-28
+Added Pin To Net: NetName=NetC2_2 Pin=U1-29
+Added Pin To Net: NetName=GND Pin=U1-30
+Added Pin To Net: NetName=LRCLK Pin=U1-31
+Added Pin To Net: NetName=BCLK Pin=U1-32
+Added Pin To Net: NetName=DSPK Pin=U1-33
+Added Pin To Net: NetName=DMIC Pin=U1-34
+Added Pin To Net: NetName=CCLK Pin=U1-39
+Added Pin To Net: NetName=V_B1 Pin=U1-40
+Added Pin To Net: NetName=GND Pin=U1-41
+Add Pin To Net: Unknown Pin: Pin U3-1
+Add Pin To Net: Unknown Pin: Pin U3-2
+Add Pin To Net: Unknown Pin: Pin U3-3
+Add Pin To Net: Unknown Pin: Pin U3-7
+Added Pin To Net: NetName=GND Pin=U5-A1
+Added Pin To Net: NetName=GND Pin=U5-A3
+Added Pin To Net: NetName=V_B1 Pin=U5-A4
+Added Pin To Net: NetName=LRCLK Pin=U5-B1
+Added Pin To Net: NetName=BCLK Pin=U5-B2
+Added Pin To Net: NetName=V_B1 Pin=U5-B3
+Added Pin To Net: NetName=CS_I Pin=U5-B4
+Added Pin To Net: NetName=CCLK Pin=U5-B6
+Added Pin To Net: NetName=MOSI Pin=U5-C1
+Added Pin To Net: NetName=MISO Pin=U5-C2
+Added Pin To Net: NetName=V_B1 Pin=U5-C3
+Added Pin To Net: NetName=V_B1 Pin=U5-C4
+Added Pin To Net: NetName=GND Pin=U5-C5
+Added Pin To Net: NetName=SCLK Pin=U5-D2
+Added Pin To Net: NetName=V_B1 Pin=U5-D4
+Added Pin To Net: NetName=DSPK Pin=U5-E2
+Added Pin To Net: NetName=DMIC Pin=U5-E3
+Added Pin To Net: NetName=CDONE Pin=U5-E4
+Added Pin To Net: NetName=CS_C Pin=U5-F4
+Add Pin To Net: Unknown Pin: Pin U6-5
+Add Pin To Net: Unknown Pin: Pin U6-6
+Add Pin To Net: Unknown Pin: Pin U6-7
+Add Pin To Net: Unknown Pin: Pin U6-8
+Add Pin To Net: Unknown Pin: Pin U7-1
+Add Pin To Net: Unknown Pin: Pin U7-5
+Add Pin To Net: Unknown Pin: Pin U7-6
+Add Pin To Net: Unknown Pin: Pin U7-7
+Add Pin To Net: Unknown Pin: Pin U7-8
+Add Pin To Net: Unknown Pin: Pin U7-12
+Add Pin To Net: Unknown Pin: Pin U7-13
+Add Pin To Net: Unknown Pin: Pin U7-14
+Change Net Name : Old Net Name=+3V7 New Net Name=+5V
+Change Net Name : Old Net Name=V_B1 New Net Name=SPI_VCCIO1
+Added Pin To Net: NetName=CRESET Pin=R11-2
+Added Pin To Net: NetName=CRESET Pin=TP2-1
+Added Pin To Net: NetName=CRESET Pin=U5-D3
+Added Net: Name=CRESET
+Added Pin To Net: NetName=IN_EN Pin=U5-D6
+Added Net: Name=IN_EN
+Added Pin To Net: NetName=LVDS_IN Pin=U5-C6
+Added Net: Name=LVDS_IN
+Added Pin To Net: NetName=LVDS_OUT Pin=U5-F6
+Added Net: Name=LVDS_OUT
+Added Pin To Net: NetName=OUT_EN Pin=U5-E6
+Added Net: Name=OUT_EN
+Added Pin To Net: NetName=SPI_SCK Pin=TP8-1
+Added Pin To Net: NetName=SPI_SCK Pin=U5-E1
+Added Net: Name=SPI_SCK
+Added Pin To Net: NetName=SPI_SDO Pin=TP5-1
+Added Pin To Net: NetName=SPI_SDO Pin=U5-F2
+Added Net: Name=SPI_SDO
+Added Pin To Net: NetName=SPI_SI Pin=R12-1
+Added Pin To Net: NetName=SPI_SI Pin=TP6-1
+Added Pin To Net: NetName=SPI_SI Pin=U5-D1
+Added Net: Name=SPI_SI
+Added Pin To Net: NetName=SPI_SS_B Pin=R14-1
+Added Pin To Net: NetName=SPI_SS_B Pin=TP7-1
+Added Pin To Net: NetName=SPI_SS_B Pin=U5-F1
+Added Net: Name=SPI_SS_B
+Added Pin To Net: NetName=VCC Pin=U5-A5
+Added Net: Name=VCC
+Add Class Member: Failed to add class member : Component C1 10uF
+Add Class Member: Failed to add class member : Component C3 0.10uF
+Add Class Member: Failed to add class member : Component C8 0.10uF
+Add Class Member: Failed to add class member : Component C9 0.10uF
+Add Class Member: Failed to add class member : Component C11 10uF
+Add Class Member: Failed to add class member : Component C19 1uF
+Add Class Member: Failed to add class member : Component C20 1uF
+Add Class Member: Failed to add class member : Component C22 0.10uF
+Added Member To Class: ClassName=rigidPCB_rev Member=Component C28 GRM033R60J155ME14D
+Added Member To Class: ClassName=rigidPCB_rev Member=Component C29 CL03A104KQ3NNNC
+Add Class Member: Failed to add class member : Component C31 0.10uF
+Add Class Member: Failed to add class member : Component C33 0.10uF
+Add Class Member: Failed to add class member : Component C34 0.10uF
+Add Class Member: Failed to add class member : Component C35 0.10uF
+Add Class Member: Failed to add class member : Component C37 0.10uF
+Add Class Member: Failed to add class member : Component J1 mic_speaker_connect
+Added Member To Class: ClassName=rigidPCB2_rev Member=Component J3 PIGTAIL
+Add Class Member: Failed to add class member : Component R1 1k
+Add Class Member: Failed to add class member : Component R2 1k
+Add Class Member: Failed to add class member : Component R7 1k
+Add Class Member: Failed to add class member : Component R13 4.7k
+Added Member To Class: ClassName=rigidPCB2_rev Member=Component R14 RC0603FR-0710KL
+Added Member To Class: ClassName=rigidPCB2_rev Member=Component TP1 TP_SMD_DJB
+Added Member To Class: ClassName=rigidPCB2_rev Member=Component TP2 TP_SMD_DJB
+Added Member To Class: ClassName=rigidPCB2_rev Member=Component TP3 TP_SMD_DJB
+Added Member To Class: ClassName=rigidPCB2_rev Member=Component TP4 TP_SMD_DJB
+Added Member To Class: ClassName=rigidPCB2_rev Member=Component TP5 TP_SMD_DJB
+Added Member To Class: ClassName=rigidPCB2_rev Member=Component TP6 TP_SMD_DJB
+Added Member To Class: ClassName=rigidPCB2_rev Member=Component TP7 TP_SMD_DJB
+Added Member To Class: ClassName=rigidPCB2_rev Member=Component TP8 TP_SMD_DJB
+Added Member To Class: ClassName=rigidPCB2_rev Member=Component TP9 TP_SMD_DJB
+Added Member To Class: ClassName=rigidPCB2_rev Member=Component TP10 TP_SMD_DJB
+Added Member To Class: ClassName=rigidPCB_rev Member=Component U1
+Add Class Member: Failed to add class member : Component U3 MIC5367 LDO 1.2V
+Added Member To Class: ClassName=rigidPCB2_rev Member=Component U5 ICE5LP4K-SWG36ITR1K
+Add Class Member: Failed to add class member : Component U6 NBA3N206SDG
+Add Class Member: Failed to add class member : Component U7 BMI160

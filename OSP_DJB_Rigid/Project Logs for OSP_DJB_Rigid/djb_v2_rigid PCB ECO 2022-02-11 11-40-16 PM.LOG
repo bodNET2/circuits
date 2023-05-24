@@ -1,0 +1,37 @@
+Change Component Designator: OldDesignator=+ NewDesignator=C25
+Added Member To Class: ClassName=rigidPCB Member=Component C3 0.10uF
+Added Member To Class: ClassName=rigidPCB Member=Component C4 0.10uF
+Added Member To Class: ClassName=rigidPCB Member=Component C5 0.10uF
+Added Member To Class: ClassName=rigidPCB Member=Component C6 0.10uF
+Added Member To Class: ClassName=rigidPCB Member=Component C8 0.10uF
+Added Member To Class: ClassName=rigidPCB Member=Component C9 10uF
+Added Member To Class: ClassName=rigidPCB Member=Component C10 0.10uF
+Added Member To Class: ClassName=rigidPCB Member=Component C13 0.10uF
+Added Member To Class: ClassName=rigidPCB Member=Component C14 0.10uF
+Added Member To Class: ClassName=rigidPCB Member=Component C20 10uF
+Added Member To Class: ClassName=rigidPCB Member=Component C22 0.10uF
+Added Member To Class: ClassName=rigidPCB Member=Component C23 0.10uF
+Added Member To Class: ClassName=rigidPCB Member=Component C24 10uF
+Added Member To Class: ClassName=rigidPCB Member=Component C25 CL03A105KQ3CSNH
+Added Member To Class: ClassName=rigidPCB Member=Component C26 1uF
+Added Member To Class: ClassName=rigidPCB Member=Component C27 1uF
+Added Member To Class: ClassName=rigidPCB Member=Component C30 GRM033R60J155ME14D
+Added Member To Class: ClassName=rigidPCB Member=Component C32 1uF
+Added Member To Class: ClassName=rigidPCB Member=Component C34 1uF
+Added Member To Class: ClassName=rigidPCB Member=Component C35 CL03A104KQ3NNNC
+Added Member To Class: ClassName=rigidPCB Member=Component J1 PIGTAIL
+Added Member To Class: ClassName=rigidPCB Member=Component R3 115
+Added Member To Class: ClassName=rigidPCB Member=Component R7 4.7k
+Added Member To Class: ClassName=rigidPCB Member=Component R9 1k
+Added Member To Class: ClassName=rigidPCB Member=Component R11 1k
+Added Member To Class: ClassName=rigidPCB Member=Component R12 1k
+Added Member To Class: ClassName=rigidPCB Member=Component R14 3k
+Added Member To Class: ClassName=rigidPCB Member=Component R15 1k
+Added Member To Class: ClassName=rigidPCB Member=Component TP2 TP_SMD_DJB
+Added Member To Class: ClassName=rigidPCB Member=Component TP3 TP_SMD_DJB
+Added Member To Class: ClassName=rigidPCB Member=Component TP5 TP_SMD_DJB
+Added Member To Class: ClassName=rigidPCB Member=Component TP7 TP_SMD_DJB
+Added Member To Class: ClassName=rigidPCB Member=Component U1 LCMXO3LF-1300E-XUWG36
+Added Member To Class: ClassName=rigidPCB Member=Component U3 BMI160
+Added Member To Class: ClassName=rigidPCB Member=Component U6 MIC5504-1.8YMT
+Added Room: Name=rigidPCB

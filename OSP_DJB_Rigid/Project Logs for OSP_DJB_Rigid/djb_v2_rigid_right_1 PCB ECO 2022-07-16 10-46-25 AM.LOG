@@ -1,0 +1,20 @@
+Change Footprint: Footprint Not Found LGA14R50P5X4_300X250X83
+Change Footprint: Footprint Not Found LDO 1.2V
+Change Component Comment : Designator=Designator47 Old Comment=Comment New Comment=mic_speaker_connect
+Change Component Designator: OldDesignator=Designator47 NewDesignator=J1
+Added Pin To Net: NetName=RCVN Pin=J1-1
+Added Pin To Net: NetName=RCVP Pin=J1-2
+Added Pin To Net: NetName=mic_port_a Pin=J1-3
+Added Pin To Net: NetName=mic_port_b Pin=J1-4
+Added Pin To Net: NetName=GND Pin=J1-5
+Add Pin To Net: Unknown Pin: Pin U6-1
+Add Pin To Net: Unknown Pin: Pin U6-2
+Add Pin To Net: Unknown Pin: Pin U6-3
+Add Pin To Net: Unknown Pin: Pin U6-4
+Add Pin To Net: Unknown Pin: Pin U6-5
+Add Pin To Net: Unknown Pin: Pin U6-6
+Add Pin To Net: Unknown Pin: Pin U6-7
+Add Pin To Net: Unknown Pin: Pin U6-8
+Added Member To Class: ClassName=rigidPCB_rev Member=Component C12 CL03A105KQ3CSNH
+Added Member To Class: ClassName=rigidPCB_rev Member=Component J1 mic_speaker_connect
+Add Class Member: Failed to add class member : Component U6 NBA3N206SDG

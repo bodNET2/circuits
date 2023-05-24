@@ -1,0 +1,221 @@
+*************************************************************
+FileName = mic_flex_panel.GBR
+AutoAperture = True
+*************************************************************
+Generating : Bottom Pad Master
+      File : mic_flex_panel.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : mic_flex_panel.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : mic_flex_panel.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : mic_flex_panel.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : mic_flex_panel.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D21
+    D22
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : mic_flex_panel.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : mic_flex_panel.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : mic_flex_panel.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D29
+    D30
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : mic_flex_panel.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : mic_flex_panel.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D11
+    D31
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Route Tool Path
+      File : mic_flex_panel.GM2
+
+    Adding Layer      : Route Tool Path
+
+
+Used DCodes :
+    D33
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 5
+      File : mic_flex_panel.GM5
+
+    Adding Layer      : Mechanical 5
+
+
+Used DCodes :
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : mic_flex_panel.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : mic_flex_panel.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D21
+    D34
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 16
+      File : mic_flex_panel.GM16
+
+    Adding Layer      : Mechanical 16
+
+
+Used DCodes :
+    D35
+*************************************************************
+

@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=CS_C Pin=U5-B2
+Removed Pin From Net: NetName=CS_I Pin=U5-B4
+Removed Pin From Net: NetName=LVDS_IN Pin=U5-B5
+Removed Pin From Net: NetName=OUT_EN Pin=U5-D5
+Removed Pin From Net: NetName=SCLK Pin=U5-E3
+Removed Pin From Net: NetName=IN_EN Pin=U5-E5
+Removed Pin From Net: NetName=MISO Pin=U5-F4
+Removed Pin From Net: NetName=LVDS_OUT Pin=U5-F5
+Removed Pin From Net: NetName=GND Pin=U6-11
+Added Pin To Net: NetName=LVDS_IN Pin=U5-B1
+Added Pin To Net: NetName=IN_EN Pin=U5-C1
+Added Pin To Net: NetName=OUT_EN Pin=U5-C2
+Added Pin To Net: NetName=LVDS_OUT Pin=U5-D2
+Added Pin To Net: NetName=CS_I Pin=U5-D5
+Added Pin To Net: NetName=CS_C Pin=U5-E5
+Added Pin To Net: NetName=SCLK Pin=U5-F4
+Added Pin To Net: NetName=MISO Pin=U5-F5

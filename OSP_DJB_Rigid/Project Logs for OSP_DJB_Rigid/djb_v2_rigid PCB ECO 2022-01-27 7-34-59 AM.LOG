@@ -1,0 +1,8 @@
+Added Component: Designator=J1(M22-6550242R)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "952-3188-1-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RCVN Pin=J1-1
+Added Pin To Net: NetName=RCVP Pin=J1-2
+Added Pin To Net: NetName=NetC9_2 Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Member To Class: ClassName=rigidPCB Member=Component J1 M22-6550242R

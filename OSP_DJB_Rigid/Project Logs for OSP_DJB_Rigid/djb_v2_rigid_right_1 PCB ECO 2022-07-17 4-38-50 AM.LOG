@@ -1,0 +1,39 @@
+Added Component: Designator=U1(ADAU1772BCPZ)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Arrow Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "RSComponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "ADAU1772BCPZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "8071681"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MISO Pin=U1-1
+Added Pin To Net: NetName=SCLK Pin=U1-2
+Added Pin To Net: NetName=MOSI Pin=U1-3
+Added Pin To Net: NetName=CS_C Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=NetC13_1 Pin=U1-8
+Added Pin To Net: NetName=MIC1 Pin=U1-9
+Added Pin To Net: NetName=+3V3_A Pin=U1-10
+Added Pin To Net: NetName=GND Pin=U1-11
+Added Pin To Net: NetName=NetC21_1 Pin=U1-12
+Added Pin To Net: NetName=NetC14_1 Pin=U1-13
+Added Pin To Net: NetName=MIC2 Pin=U1-14
+Added Pin To Net: NetName=NetC15_1 Pin=U1-15
+Added Pin To Net: NetName=MIC3 Pin=U1-16
+Added Pin To Net: NetName=NetC16_1 Pin=U1-17
+Added Pin To Net: NetName=MIC4 Pin=U1-18
+Added Pin To Net: NetName=+3V3_A Pin=U1-19
+Added Pin To Net: NetName=GND Pin=U1-20
+Added Pin To Net: NetName=RCVN Pin=U1-21
+Added Pin To Net: NetName=RCVP Pin=U1-22
+Added Pin To Net: NetName=GND Pin=U1-23
+Added Pin To Net: NetName=+3V3_A Pin=U1-24
+Added Pin To Net: NetName=NetC23_2 Pin=U1-27
+Added Pin To Net: NetName=NetC2_2 Pin=U1-28
+Added Pin To Net: NetName=NetC2_2 Pin=U1-29
+Added Pin To Net: NetName=GND Pin=U1-30
+Added Pin To Net: NetName=LRCLK Pin=U1-31
+Added Pin To Net: NetName=BCLK Pin=U1-32
+Added Pin To Net: NetName=DSPK Pin=U1-33
+Added Pin To Net: NetName=DMIC Pin=U1-34
+Added Pin To Net: NetName=CCLK Pin=U1-39
+Added Pin To Net: NetName=SPI_VCCIO1 Pin=U1-40
+Added Pin To Net: NetName=GND Pin=U1-41
+Added Member To Class: ClassName=rigidPCB_rev Member=Component U1

@@ -1,0 +1,28 @@
+Line #,Name,Description,Designator,Quantity,Manufacturer 1,Manufacturer Part Number 1,Manufacturer Lifecycle 1,Supplier 1,Supplier Part Number 1,Supplier Unit Price 1,Supplier Subtotal 1
+,,,,,,,,,,,
+,CL03A104KQ3NNNC,0.1 µF ±10% 6.3V Ceramic Capacitor X5R 0201 (0603 Metric),C29,1,Samsung,CL03A104KQ3NNNC,Volume Production,Newark,82AC9159,0.002,0.002
+,PIGTAIL,Pads for Wire Pigtail,J3,1,,DNP,,,,,
+,RC0402FR-071K4L,"1.4 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film",R6,1,Yageo,RC0402FR-071K4L,Volume Production,Digi-Key,YAG3039CT-ND,0.1,0.1
+,RC0402FR-07470RL,"470 Ohms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film","R8, R10",2,Yageo,RC0402FR-07470RL,Volume Production,Digi-Key,311-470LRCT-ND ,,
+,RC0402FR-0745R3L,"45.3 Ohms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film",R9,1,Yageo,RC0402FR-0745R3L,Volume Production,Newark,82AH7960,0.009,0.09
+,CL03A105KQ3CSNH,1 ?F ?10% 6.3V Ceramic Capacitor X5R 0201 (0603 Metric),"C6, C12",2,Samsung,CL03A105KQ3CSNH,Volume Production,Digi-Key,1276-6440-1-ND,0.15,0.3
+,STR485LVQT,3.3 V LVDS RS485 compatible with 1.8 V I/Os and selectable speed,U6,1,STMicroelectronics,STR485LVQT,,Digi-Key,497-18335-1-ND,,
+,BMI160,BMI160 2.5 x 3 mm Tiaxial Accelerometer / Gyroscope Inertial Measurement Unit,U7,1,Bosch,BMI160,,Digi-Key,828-1057-1-ND,,
+,VA1200AA,Bone Conductor Sensor Accelerometer,MK1,1,Vesper Technologies,VA1200AA,,Digi-Key,2022-VA1200AACT-ND,,
+,0.10uF,CAP CER 0.1UF 10V X5R 0201,"C3, C4, C8, C9, C10, C22, C30, C31, C32, C33, C34, C35, C36, C37",14,Samsung,CL03A104KP3NNNC,Volume Production,Digi-Key,1276-1115-2-ND,0.00513,51.3
+,1uF,CAP CER 1UF 6.3V X5R 0201,"C17, C18, C19, C20, C23, C24, C25, C26, C27",9,Kyocera AVX,02016D105MAT2A/15K,Unknown,Digi-Key,478-7862-2-ND,0.00882,132.3
+,10uF,CAP CER 10UF 6.3V X5R 0402,"C1, C2, C5, C7, C11, C13, C14, C15, C16, C21",10,TDK,C1005X5R0J106M050BC,Unknown,Digi-Key,445-8920-2-ND,,
+,GRM033R60J155ME14D,"Chip Multilayer Ceramic Capacitors for General Purpose, 0201, 1.5uF, X5R, 15%, 20%, 6.3V",C28,1,Murata,GRM033R60J155ME14D,Volume Production,Arrow Electronics,GRM033R60J155ME14D,0.2582,0.2582
+,mic_speaker_connect,connector to integrated microphone and speaker,J1,1,,DNP,,,,,
+,TP_SMD_DJB,Digital Jellybean Style SMD Test Point,"TP1, TP2, TP3, TP4, TP5, TP6, TP7, TP8, TP9, TP10",10,,DNP,,,,,
+,ICE5LP4K-SWG36ITR1K,Field Programmable Gate Array (FPGA) IC 25 65536 1280 36-VFBGA,U5,1,Lattice Semiconductor,,,Digi-Key,220-2124-1-ND,,
+,ADAU1772BCPZ,General Purpose Audio Codec 4ADC / 2DAC Ch 40-Pin LFCSP,U1,1,Analog Devices,ADAU1772BCPZ,Volume Production,Arrow Electronics,ADAU1772BCPZ,,
+,FFC,Hirose FH58M-7S-0.25SHW(99) 7-pin Top+Bottom Contact FFC Connector,J2,1,Hirose Connector,,,Mouser,798-FH58M-7S025SHW99,,
+,MIC5380/1-xxYFT,LDO 2fixed Outputs,U4,1,Microchip,MIC5380-SSYFT-TR,Volume Production,Digi-Key,576-3453-6-ND,0.49,0.49
+,SML-P11MTT86,LED YELLOW/GREEN CLEAR 1006 SMD,D1,1,Rohm,SML-P11MTT86,Unknown,Newark,72Y6406,0.375,0.375
+,MIC5367 LDO 1.2V,MIC5367 LDO 1.2V,U3,1,Microchip,MIC5367-1.2YMT-TR,Volume Production,Digi-Key,576-3723-6-ND,0.41,0.41
+,MIC5504-1.8YMT,Micrel MIC5504-1.8YMT 1.8V 300mA LDO,U2,1,Microchip,MIC5504-1.8YMT-TR,,Digi-Key,MIC5504-1.8YMT-CT-ND,,
+,RC0603FR-0710KL,RES 10K OHM 1% 1/10W 0603,"R11, R14",2,Yageo,RC0603FR-0710KL,Volume Production,Newark,68X3181,0.003,0.006
+,RC0201JR-071KL,RES SMD 1K OHM 5% 1/20W 0201,"R1, R2, R3, R4, R7",5,Yageo,RC0201JR-071KL,Volume Production,Digi-Key,311-1KNTR-ND,0.00308,30.8
+,RC0201FR-073KL,RES SMD 3K OHM 1% 1/20W 0201,R5,1,Yageo,RC0201FR-073KL,Volume Production,Digi-Key,YAG2656TR-ND,0.00439,43.9
+,RC0201FR-074K7L,RES SMD 4.7K OHM 1% 1/20W 0201,"R12, R13",2,Yageo,RC0201FR-074K7L,Volume Production,Digi-Key,311-4.70KMTR-ND,0.00439,43.9

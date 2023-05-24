@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: djb_v2_rigid_panel.PcbDoc   2023-02-21  7:06:50 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : djb_v2_rigid_panel.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.127mm (5mil)                                            Round             2         PTH        22.99mm (0.90inch)
+T2      0.15mm (6mil)                                             Round             22        PTH        33.03mm (1.30inch)
+T3      0.152mm (6mil)                                            Round             4         PTH        32.42mm (1.28inch)
+T4      0.2mm (8mil)                                              Round             162       PTH        266.24mm (10.48inch)
+T5      0.6mm (24mil)                                             Round             18        PTH        85.69mm (3.37inch)
+T6      0.5mm (20mil)                                             Round             196       NPTH       450.80mm (17.75inch)
+T7      1.524mm (60mil)                                           Round             4         NPTH       120.88mm (4.76inch)
+T8      2.794mm (110mil)                                          Round             4         NPTH       130.28mm (5.13inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              412
+
+Total Processing Time (hh:mm:ss) : 00:00:00

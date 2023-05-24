@@ -1,0 +1,5 @@
+Added Component: Designator=J2(mic_connect)
+Added Pin To Net: NetName=+MEMS1 Pin=J2-5
+Added Pin To Net: NetName=GND1 Pin=J2-6
+Added Pin To Net: NetName=MIC1 Pin=J2-7
+Added Member To Class: ClassName=flexPCB_rev Member=Component J2 mic_connect

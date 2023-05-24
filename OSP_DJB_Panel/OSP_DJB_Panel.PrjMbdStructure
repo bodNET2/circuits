@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=OSP_DJB_Panel.MbaDoc
+Record=DiagramHierarchy|SourceDocument=OSP_DJB_Panel.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=..\OSP_DJB_Rigid\OSP_DJB_Rigid.PrjPcb
+Record=SubProject|SourceDocument=OSP_DJB_Panel.MbsDoc|ProjectPath=..\OSP_DJB_Rigid\OSP_DJB_Rigid.PrjPcb
+Record=DiagramHierarchy|SourceDocument=OSP_DJB_Panel.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=..\OSP_DJB_Rigid\OSP_DJB_Rigid.PrjPcb
+Record=SubProject|SourceDocument=OSP_DJB_Panel.MbsDoc|ProjectPath=..\OSP_DJB_Rigid\OSP_DJB_Rigid.PrjPcb

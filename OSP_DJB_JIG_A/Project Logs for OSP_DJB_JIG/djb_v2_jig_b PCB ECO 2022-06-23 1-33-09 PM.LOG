@@ -1,0 +1,52 @@
+Change Component Footprint: Designator=H3 Old Footprint=SMITHS_S-00-U-1.3-G_MID New Footprint=SMITHS_S-00-U-1.3_hole
+Change Component Footprint: Designator=H4 Old Footprint=SMITHS_S-00-U-1.3-G_MID New Footprint=SMITHS_S-00-U-1.3_hole
+Change Component Footprint: Designator=H7 Old Footprint=SMITHS_S-00-U-1.3-G_MID New Footprint=SMITHS_S-00-U-1.3_hole
+Change Component Footprint: Designator=H8 Old Footprint=SMITHS_S-00-U-1.3-G_MID New Footprint=SMITHS_S-00-U-1.3_hole
+Change Component Footprint: Designator=H9 Old Footprint=SMITHS_S-00-U-1.3-G_MID New Footprint=SMITHS_S-00-U-1.3_hole
+Change Component Footprint: Designator=H14 Old Footprint=SMITHS_S-00-U-1.3-G_MID New Footprint=SMITHS_S-00-U-1.3_hole
+Change Component Comment : Designator=H3 Old Comment=SMITHS_S-00-U-1.3-G_MID New Comment=SMITHS_S-00-U-1.3_hole
+Change Component Comment : Designator=H4 Old Comment=SMITHS_S-00-U-1.3-G_MID New Comment=SMITHS_S-00-U-1.3_hole
+Change Component Comment : Designator=H7 Old Comment=SMITHS_S-00-U-1.3-G_MID New Comment=SMITHS_S-00-U-1.3_hole
+Change Component Comment : Designator=H8 Old Comment=SMITHS_S-00-U-1.3-G_MID New Comment=SMITHS_S-00-U-1.3_hole
+Change Component Comment : Designator=H9 Old Comment=SMITHS_S-00-U-1.3-G_MID New Comment=SMITHS_S-00-U-1.3_hole
+Change Component Comment : Designator=H14 Old Comment=SMITHS_S-00-U-1.3-G_MID New Comment=SMITHS_S-00-U-1.3_hole
+Change Component Designator: OldDesignator=H10 NewDesignator=H5
+Change Component Designator: OldDesignator=H11 NewDesignator=H6
+Change Component Designator: OldDesignator=H15 NewDesignator=H12
+Change Component Designator: OldDesignator=H16 NewDesignator=H13
+Added Component: Designator=H10(SMITHS_S-00-U-1.3_hole)
+Added Component: Designator=H11(SMITHS_S-00-U-1.3_hole)
+Added Component: Designator=H15(SMITHS_S-00-U-1.3_hole)
+Added Component: Designator=H16(SMITHS_S-00-U-1.3_hole)
+Added Component: Designator=J1(2-POS_HEADER)
+Added Component: Designator=J2(2-POS_HEADER)
+Added Component: Designator=J3(7-pos_header)
+Added Component: Designator=J4(AMPHENOL_HFW6R-1STE1LF)
+Added Pin To Net: NetName=+5V Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=+3V3 Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=SCK Pin=J3-1
+Added Pin To Net: NetName=SS Pin=J3-2
+Added Pin To Net: NetName=SDO Pin=J3-3
+Added Pin To Net: NetName=SDI Pin=J3-4
+Added Pin To Net: NetName=CRESET_B Pin=J3-5
+Added Pin To Net: NetName=CDONE Pin=J3-6
+Added Pin To Net: NetName=GND Pin=J3-7
+Added Pin To Net: NetName=SCK Pin=J4-1
+Added Pin To Net: NetName=SS Pin=J4-2
+Added Pin To Net: NetName=SDO Pin=J4-3
+Added Pin To Net: NetName=SDI Pin=J4-4
+Added Pin To Net: NetName=CRESET_B Pin=J4-5
+Added Pin To Net: NetName=CDONE Pin=J4-6
+Added Member To Class: ClassName=djb_v2_jig Member=Component H1 SCREW_4-40_1/4-SPACER
+Added Member To Class: ClassName=djb_v2_jig Member=Component H2 Spacer_hole_4-40
+Added Member To Class: ClassName=djb_v2_jig Member=Component H3 SMITHS_S-00-U-1.3_hole
+Added Member To Class: ClassName=djb_v2_jig Member=Component H5 SCREW_4-40_1/4-SPACER
+Added Member To Class: ClassName=djb_v2_jig Member=Component H7 SMITHS_S-00-U-1.3_hole
+Added Member To Class: ClassName=djb_v2_jig Member=Component H8 SMITHS_S-00-U-1.3_hole
+Added Member To Class: ClassName=djb_v2_jig Member=Component H10 SMITHS_S-00-U-1.3_hole
+Added Member To Class: ClassName=djb_v2_jig Member=Component J1 HDR_2
+Added Member To Class: ClassName=djb_v2_jig Member=Component J2 HDR_2
+Added Member To Class: ClassName=djb_v2_jig Member=Component J3 prog_connect
+Added Member To Class: ClassName=djb_v2_jig Member=Component J4 FFC

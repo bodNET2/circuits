@@ -1,0 +1,5 @@
+Comment,Description,Designator,Footprint,LibRef,Quantity,Manufacturer, Manufacturer Part Number, Supplier Part Number, Notes
+"GRM033R60J155ME14D","Chip Multilayer Ceramic Capacitors for General Purpose, 0201, 1.5uF, X5R, 15%, 20%, 6.3V",C1,"FP-GRM033-0_03-IPC_B","CMP-06035-017352-1",1,Murata Electronics ,GRM033R60J155ME14D,490-13223-1-ND
+"FFC EDGE BOTTOM",99_BOTTOMFFC,J1,"HIROSE_FH58M-7S-0.25SHW-99_BOTTOMFFC","HIROSE_FH58M-7S-0.25SHW-99_BOTTOM","1",,,,DNP
+"AMM-3738-B-R","Analog MEMS Microphone","MK1","665-AMM-3738-B-R","AMM-3738-B-R",1,PUI Audio,AMM-3738-B-R,668-AMM-3738-B-RCT-ND
+

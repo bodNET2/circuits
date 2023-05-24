@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=J3-1
+Removed Pin From Net: NetName=NetC9_2 Pin=J3-2
+Removed Pin From Net: NetName=RCVP Pin=J3-3
+Removed Pin From Net: NetName=RCVN Pin=J3-4
+Added Room: Name=rigidPCB

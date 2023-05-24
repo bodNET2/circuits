@@ -1,0 +1,11 @@
+Added Component: Designator=MK2(665-AMM-3738-B-R)
+Add component (AddParameter): Name = "Manufacturer"; Value = "PUI Audio"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "665-AMM-3738-B-R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC2_1 Pin=MK2-1
+Added Pin To Net: NetName=GND2 Pin=MK2-2
+Added Pin To Net: NetName=GND2 Pin=MK2-3
+Added Pin To Net: NetName=+MEMS2 Pin=MK2-4
+Added Pin To Net: NetName=GND2 Pin=MK2-5
+Added Pin To Net: NetName=GND2 Pin=MK2-6
+Added Member To Class: ClassName=flexPCB Member=Component MK2 AMM-3738-B-R

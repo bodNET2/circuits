@@ -1,0 +1,111 @@
+Change Component Footprint: Designator=H15 Old Footprint=SCREW_4-40_BLANK New Footprint=SCREW_4-40_1/4-SPACER
+Change Component Footprint: Designator=H17 Old Footprint=SCREW_4-40_BLANK New Footprint=SCREW_4-40_1/4-SPACER
+Change Component Footprint: Designator=H16 Old Footprint=SCREW_4-40_BLANK New Footprint=SPACER_HOLE_4-40
+Change Component Footprint: Designator=H18 Old Footprint=SCREW_4-40_BLANK New Footprint=SPACER_HOLE_4-40
+Change Component Comment : Designator=H15 Old Comment=4-40 New Comment=SCREW_4-40_1/4-SPACER
+Change Component Comment : Designator=H17 Old Comment=4-40 New Comment=SCREW_4-40_1/4-SPACER
+Change Component Comment : Designator=H16 Old Comment=4-40 New Comment=Spacer_hole_4-40
+Change Component Comment : Designator=H18 Old Comment=4-40 New Comment=Spacer_hole_4-40
+Change Component Designator: OldDesignator=H1 NewDesignator=H3
+Change Component Designator: OldDesignator=H2 NewDesignator=H6
+Change Component Designator: OldDesignator=H3 NewDesignator=H7
+Change Component Designator: OldDesignator=H4 NewDesignator=H8
+Change Component Designator: OldDesignator=H5 NewDesignator=H9
+Change Component Designator: OldDesignator=H6 NewDesignator=H12
+Change Component Designator: OldDesignator=H7 NewDesignator=H4
+Change Component Designator: OldDesignator=H8 NewDesignator=H13
+Change Component Designator: OldDesignator=H9 NewDesignator=H5
+Change Component Designator: OldDesignator=H10 NewDesignator=H14
+Added Component: Designator=H1(SCREW_4-40_1/4-SPACER)
+Added Component: Designator=H2(SPACER_HOLE_4-40)
+Added Component: Designator=H10(SCREW_4-40_1/4-SPACER)
+Added Component: Designator=H11(SPACER_HOLE_4-40)
+Add Component: Footprint Not Found HDR_2
+Add Component: Footprint Not Found HDR_2
+Add Component: Footprint Not Found 6-pos_header
+Add Component: Footprint Not Found AMPHENOL_HFW6R-1STE1LF
+Added Component: Designator=P1(SMITHS_S-00-U-1.3-G_TH)
+Added Component: Designator=P2(SMITHS_S-00-U-1.3-G_TH)
+Added Component: Designator=P3(SMITHS_S-00-U-1.3-G_TH)
+Added Component: Designator=P4(SMITHS_S-00-U-1.3-G_TH)
+Added Component: Designator=P5(SMITHS_S-00-U-1.3-G_TH)
+Added Component: Designator=P6(SMITHS_S-00-U-1.3-G_TH)
+Added Component: Designator=P7(SMITHS_S-00-U-1.3-G_TH)
+Added Component: Designator=P8(SMITHS_S-00-U-1.3-G_TH)
+Added Component: Designator=P9(SMITHS_S-00-U-1.3-G_TH)
+Added Component: Designator=P10(SMITHS_S-00-U-1.3-G_TH)
+Added Component: Designator=R1(FP-RC0603-0_55-IPC_C)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Construction"; Value = "Rectangular"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Moisture Resistant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "0.3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "Not"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Type"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size Code"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "7.1E-05oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin J1-2
+Add Pin To Net: Unknown Pin: Pin J2-2
+Add Pin To Net: Unknown Pin: Pin J3-7
+Added Pin To Net: NetName=GND Pin=P8-1
+Added Pin To Net: NetName=GND Pin=P10-1
+Added Pin To Net: NetName=+3V3 Pin=R1-1
+Added Net: Name=+3V3
+Added Pin To Net: NetName=+5V Pin=P1-1
+Added Pin To Net: NetName=+5V Pin=P9-1
+Added Net: Name=+5V
+Added Pin To Net: NetName=CDONE Pin=P6-1
+Added Pin To Net: NetName=CDONE Pin=R1-2
+Added Net: Name=CDONE
+Added Pin To Net: NetName=CRESET_B Pin=P7-1
+Added Net: Name=CRESET_B
+Added Pin To Net: NetName=SCK Pin=P5-1
+Added Net: Name=SCK
+Added Pin To Net: NetName=SDI Pin=P3-1
+Added Net: Name=SDI
+Added Pin To Net: NetName=SDO Pin=P2-1
+Added Net: Name=SDO
+Added Pin To Net: NetName=SS Pin=P4-1
+Added Net: Name=SS
+Added Member To Class: ClassName=djb_v2_jig Member=Component H11 Spacer_hole_4-40
+Added Member To Class: ClassName=djb_v2_jig Member=Component H12 SMITHS_S-00-U-1.3-G_MID
+Added Member To Class: ClassName=djb_v2_jig Member=Component H13 SMITHS_S-00-U-1.3-G_MID
+Added Member To Class: ClassName=djb_v2_jig Member=Component H14 SMITHS_S-00-U-1.3-G_MID
+Add Class Member: Failed to add class member : Component J1 HDR_2
+Add Class Member: Failed to add class member : Component J2 HDR_2
+Add Class Member: Failed to add class member : Component J3 prog_connect
+Add Class Member: Failed to add class member : Component J4 FFC
+Added Member To Class: ClassName=djb_v2_jig Member=Component P1 SMITHS_S-00-U-1.3-G_TH
+Added Member To Class: ClassName=djb_v2_jig Member=Component P2 SMITHS_S-00-U-1.3-G_TH
+Added Member To Class: ClassName=djb_v2_jig Member=Component P3 SMITHS_S-00-U-1.3-G_TH
+Added Member To Class: ClassName=djb_v2_jig Member=Component P4 SMITHS_S-00-U-1.3-G_TH
+Added Member To Class: ClassName=djb_v2_jig Member=Component P5 SMITHS_S-00-U-1.3-G_TH
+Added Member To Class: ClassName=djb_v2_jig Member=Component P6 SMITHS_S-00-U-1.3-G_TH
+Added Member To Class: ClassName=djb_v2_jig Member=Component P7 SMITHS_S-00-U-1.3-G_TH
+Added Member To Class: ClassName=djb_v2_jig Member=Component P8 SMITHS_S-00-U-1.3-G_TH
+Added Member To Class: ClassName=djb_v2_jig Member=Component P9 SMITHS_S-00-U-1.3-G_TH
+Added Member To Class: ClassName=djb_v2_jig Member=Component P10 SMITHS_S-00-U-1.3-G_TH
+Added Member To Class: ClassName=djb_v2_jig Member=Component R1 RC0603FR-0710KL
+Added Room: Name=djb_v2_jig

@@ -1,0 +1,18 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\Projects\OSP_DJB_Flex\Project Outputs for OSP_DJB_Flex\Pick Place for djb_v2_flex.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       09-02-22
+Time:       18:37
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"MK2","AMM-3738-B-R","TopLayer","665-AMM-3738-B-R","845.669","192.520","90",""
+"MK1","AMM-3738-B-R","TopLayer","665-AMM-3738-B-R","-333.858","192.913","270",""
+"C2","GRM033R60J155ME14D","TopLayer","FP-GRM033-0_03-IPC_B","715.551","155.512","180","Chip Multilayer Ceramic Capacitors for General Purpose, 0201, 1.5uF, X5R, 15%, 20%, 6.3V"
+"C1","GRM033R60J155ME14D","TopLayer","FP-GRM033-0_03-IPC_B","-140.401","242.126","0","Chip Multilayer Ceramic Capacitors for General Purpose, 0201, 1.5uF, X5R, 15%, 20%, 6.3V"
+"J1","FFC EDGE BOTTOM","TopLayer","HIROSE_FH58M-7S-0.25SHW-99_BOTTOMFFC","0.000","41.929","180","Bottom FFC Land Pattern for Hirose FH58M-7S-0.25SHW(99) 7-pin Top+Bottom Contact FFC Connector"

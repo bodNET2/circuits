@@ -1,0 +1,5 @@
+Comment,Description,Designator,Footprint,LibRef,Quantity
+
+"GRM033R60J155ME14D","Chip Multilayer Ceramic Capacitors for General Purpose, 0201, 1.5uF, X5R, 15%, 20%, 6.3V","C1, C2","FP-GRM033-0_03-IPC_B","CMP-06035-017352-1","2"
+"FFC EDGE BOTTOM","Bottom FFC Land Pattern for Hirose FH58M-7S-0.25SHW(99) 7-pin Top+Bottom Contact FFC Connector","J1","HIROSE_FH58M-7S-0.25SHW-99_BOTTOMFFC","HIROSE_FH58M-7S-0.25SHW-99_BOTTOM","1"
+"AMM-3738-B-R","Analog MEMS Microphone","MK1, MK2","665-AMM-3738-B-R","AMM-3738-B-R","2"

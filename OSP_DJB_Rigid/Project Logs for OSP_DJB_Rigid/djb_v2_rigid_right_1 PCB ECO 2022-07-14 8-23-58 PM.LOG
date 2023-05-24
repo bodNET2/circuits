@@ -1,0 +1,101 @@
+Change Footprint: Footprint Not Found CAP 0402/1005
+Add Component: Footprint Not Found CAP 0402/1005
+Add Component: Footprint Not Found CAP 0201/0603
+Add Component: Footprint Not Found CAP 0201/0603
+Add Component: Footprint Not Found CAP 0201/0603
+Add Component: Footprint Not Found CAP 0402/1005
+Add Component: Footprint Not Found CAP 0201/0603
+Add Component: Footprint Not Found CAP 0201/0603
+Add Component: Footprint Not Found CAP 0201/0603
+Add Component: Footprint Not Found CAP 0201/0603
+Add Component: Footprint Not Found CAP 0201/0603
+Add Component: Footprint Not Found CAP 0201/0603
+Add Component: Footprint Not Found CAP 0201/0603
+Add Component: Footprint Not Found CAP 0201/0603
+Add Component: Footprint Not Found RES 0201/0603
+Add Component: Footprint Not Found RES 0201/0603
+Add Component: Footprint Not Found RES 0201/0603
+Add Component: Footprint Not Found RES 0201/0603
+Add Component: Footprint Not Found LDO 1.2V
+Add Component: Footprint Not Found LGA14R50P5X4_300X250X83
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin C8-1
+Add Pin To Net: Unknown Pin: Pin C8-2
+Add Pin To Net: Unknown Pin: Pin C9-1
+Add Pin To Net: Unknown Pin: Pin C9-2
+Add Pin To Net: Unknown Pin: Pin C11-1
+Add Pin To Net: Unknown Pin: Pin C11-2
+Add Pin To Net: Unknown Pin: Pin C19-1
+Add Pin To Net: Unknown Pin: Pin C19-2
+Add Pin To Net: Unknown Pin: Pin C20-1
+Add Pin To Net: Unknown Pin: Pin C20-2
+Add Pin To Net: Unknown Pin: Pin C22-1
+Add Pin To Net: Unknown Pin: Pin C22-2
+Add Pin To Net: Unknown Pin: Pin C31-1
+Add Pin To Net: Unknown Pin: Pin C31-2
+Add Pin To Net: Unknown Pin: Pin C33-1
+Add Pin To Net: Unknown Pin: Pin C33-2
+Add Pin To Net: Unknown Pin: Pin C34-1
+Add Pin To Net: Unknown Pin: Pin C34-2
+Add Pin To Net: Unknown Pin: Pin C35-1
+Add Pin To Net: Unknown Pin: Pin C35-2
+Add Pin To Net: Unknown Pin: Pin C37-1
+Add Pin To Net: Unknown Pin: Pin C37-2
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J1-2
+Add Pin To Net: Unknown Pin: Pin J1-3
+Add Pin To Net: Unknown Pin: Pin J1-4
+Add Pin To Net: Unknown Pin: Pin J1-5
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R2-2
+Add Pin To Net: Unknown Pin: Pin R7-1
+Add Pin To Net: Unknown Pin: Pin R7-2
+Add Pin To Net: Unknown Pin: Pin R13-1
+Add Pin To Net: Unknown Pin: Pin R13-2
+Add Pin To Net: Unknown Pin: Pin U3-1
+Add Pin To Net: Unknown Pin: Pin U3-2
+Add Pin To Net: Unknown Pin: Pin U3-3
+Add Pin To Net: Unknown Pin: Pin U3-4
+Add Pin To Net: Unknown Pin: Pin U3-7
+Add Pin To Net: Unknown Pin: Pin U6-1
+Add Pin To Net: Unknown Pin: Pin U6-2
+Add Pin To Net: Unknown Pin: Pin U6-3
+Add Pin To Net: Unknown Pin: Pin U6-4
+Add Pin To Net: Unknown Pin: Pin U6-5
+Add Pin To Net: Unknown Pin: Pin U6-6
+Add Pin To Net: Unknown Pin: Pin U6-7
+Add Pin To Net: Unknown Pin: Pin U6-8
+Add Pin To Net: Unknown Pin: Pin U7-1
+Add Pin To Net: Unknown Pin: Pin U7-5
+Add Pin To Net: Unknown Pin: Pin U7-6
+Add Pin To Net: Unknown Pin: Pin U7-7
+Add Pin To Net: Unknown Pin: Pin U7-8
+Add Pin To Net: Unknown Pin: Pin U7-12
+Add Pin To Net: Unknown Pin: Pin U7-13
+Add Pin To Net: Unknown Pin: Pin U7-14
+Add Class Member: Failed to add class member : Component C1 10uF
+Add Class Member: Failed to add class member : Component C3 0.10uF
+Add Class Member: Failed to add class member : Component C8 0.10uF
+Add Class Member: Failed to add class member : Component C9 0.10uF
+Add Class Member: Failed to add class member : Component C11 10uF
+Add Class Member: Failed to add class member : Component C19 1uF
+Add Class Member: Failed to add class member : Component C20 1uF
+Add Class Member: Failed to add class member : Component C22 0.10uF
+Add Class Member: Failed to add class member : Component C31 0.10uF
+Add Class Member: Failed to add class member : Component C33 0.10uF
+Add Class Member: Failed to add class member : Component C34 0.10uF
+Add Class Member: Failed to add class member : Component C35 0.10uF
+Add Class Member: Failed to add class member : Component C37 0.10uF
+Add Class Member: Failed to add class member : Component J1 mic_speaker_connect
+Add Class Member: Failed to add class member : Component R1 1k
+Add Class Member: Failed to add class member : Component R2 1k
+Add Class Member: Failed to add class member : Component R7 1k
+Add Class Member: Failed to add class member : Component R13 4.7k
+Add Class Member: Failed to add class member : Component U3 MIC5367 LDO 1.2V
+Add Class Member: Failed to add class member : Component U6 NBA3N206SDG
+Add Class Member: Failed to add class member : Component U7 BMI160
